@@ -1,0 +1,7 @@
+# Pinned for reproducibility (resolved 2026-11-16, Python 3.14). The govex
+# package is pinned to the exact commit the puller was written against: its
+# wonder_query() blind-toggles form controls, so a behavior change upstream
+# would silently change what gets exported.
+selenium==4.52.0
+webdriver-manager==4.1.2
+cdc-wonder-scraper @ git+https://github.com/govex/cdc-wonder-scraper.git@34912125f2a4c8a31330bdb92f39d4a4ec059da9

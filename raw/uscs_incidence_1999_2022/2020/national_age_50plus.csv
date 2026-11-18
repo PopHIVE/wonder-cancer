@@ -1,0 +1,147 @@
+"Notes","Cancer Sites","Cancer Sites Code",Count,Population,Age-Adjusted Rate,Age-Adjusted Rate Lower 95% Confidence Interval,Age-Adjusted Rate Upper 95% Confidence Interval,Age-Adjusted Rate Standard Error,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
+,"All Invasive Cancer Sites Combined","0",1516960,118282242,1273.0,1270.9,1275.1,1.0,1282.5,1280.5,1284.5,1.0
+,"Oral Cavity and Pharynx","20010-20100",43970,118282242,36.3,36.0,36.7,0.2,37.2,36.8,37.5,0.2
+,"Lip","20010",1654,118282242,1.4,1.4,1.5,0.0,1.4,1.3,1.5,0.0
+,"Tongue","20020",14686,118282242,12.0,11.8,12.2,0.1,12.4,12.2,12.6,0.1
+,"Salivary Gland","20030",4015,118282242,3.5,3.4,3.6,0.1,3.4,3.3,3.5,0.1
+,"Floor of Mouth","20040",1657,118282242,1.3,1.3,1.4,0.0,1.4,1.3,1.5,0.0
+,"Gum and Other Mouth","20050",6000,118282242,5.1,5.0,5.3,0.1,5.1,4.9,5.2,0.1
+,"Nasopharynx","20060",1435,118282242,1.2,1.1,1.2,0.0,1.2,1.2,1.3,0.0
+,"Tonsil","20070",8462,118282242,6.8,6.7,7.0,0.1,7.2,7.0,7.3,0.1
+,"Oropharynx","20080",3373,118282242,2.7,2.6,2.8,0.0,2.9,2.8,2.9,0.0
+,"Hypopharynx","20090",2081,118282242,1.7,1.6,1.8,0.0,1.8,1.7,1.8,0.0
+,"Other Oral Cavity and Pharynx","20100",607,118282242,0.5,0.5,0.5,0.0,0.5,0.5,0.6,0.0
+,"Digestive System","21010-21130",275685,118282242,233.6,232.8,234.5,0.5,233.1,232.2,233.9,0.4
+,"Esophagus","21010",17871,118282242,14.9,14.7,15.1,0.1,15.1,14.9,15.3,0.1
+,"Stomach","21020",21370,118282242,18.2,17.9,18.4,0.1,18.1,17.8,18.3,0.1
+,"Small Intestine","21030",8884,118282242,7.5,7.3,7.6,0.1,7.5,7.4,7.7,0.1
+,"Colon and Rectum","21041-21052",116626,118282242,100.1,99.5,100.7,0.3,98.6,98.0,99.2,0.3
+,"Colon excluding Rectum","21041-21049",83309,118282242,71.9,71.4,72.4,0.3,70.4,70.0,70.9,0.2
+,"Cecum","21041",16881,118282242,14.7,14.4,14.9,0.1,14.3,14.1,14.5,0.1
+,"Appendix","21042",4025,118282242,3.4,3.3,3.5,0.1,3.4,3.3,3.5,0.1
+,"Ascending Colon","21043",16527,118282242,14.4,14.2,14.6,0.1,14.0,13.8,14.2,0.1
+,"Hepatic Flexure","21044",3915,118282242,3.4,3.3,3.5,0.1,3.3,3.2,3.4,0.1
+,"Transverse Colon","21045",8184,118282242,7.1,7.0,7.3,0.1,6.9,6.8,7.1,0.1
+,"Splenic Flexure","21046",2380,118282242,2.1,2.0,2.1,0.0,2.0,1.9,2.1,0.0
+,"Descending Colon","21047",4546,118282242,3.9,3.8,4.0,0.1,3.8,3.7,4.0,0.1
+,"Sigmoid Colon","21048",19133,118282242,16.3,16.1,16.5,0.1,16.2,15.9,16.4,0.1
+,"Large Intestine, NOS","21049",7718,118282242,6.7,6.6,6.9,0.1,6.5,6.4,6.7,0.1
+,"Rectum and Rectosigmoid Junction","21051-21052",33317,118282242,28.2,27.9,28.5,0.2,28.2,27.9,28.5,0.2
+,"Rectosigmoid Junction","21051",7437,118282242,6.3,6.2,6.5,0.1,6.3,6.1,6.4,0.1
+,"Rectum","21052",25880,118282242,21.9,21.6,22.2,0.1,21.9,21.6,22.1,0.1
+,"Anus, Anal Canal and Anorectum","21060",7379,118282242,6.1,6.0,6.2,0.1,6.2,6.1,6.4,0.1
+,"Liver and Intrahepatic Bile Duct","21071-21072",33955,118282242,27.6,27.3,27.9,0.2,28.7,28.4,29.0,0.2
+,"Liver","21071",27030,118282242,21.8,21.6,22.1,0.1,22.9,22.6,23.1,0.1
+,"Intrahepatic Bile Duct","21072",6925,118282242,5.8,5.7,5.9,0.1,5.9,5.7,6.0,0.1
+,"Gallbladder","21080",4004,118282242,3.4,3.3,3.5,0.1,3.4,3.3,3.5,0.1
+,"Other Biliary","21090",6372,118282242,5.5,5.3,5.6,0.1,5.4,5.3,5.5,0.1
+,"Pancreas","21100",53496,118282242,45.5,45.1,45.9,0.2,45.2,44.8,45.6,0.2
+,"Retroperitoneum","21110",1313,118282242,1.1,1.0,1.2,0.0,1.1,1.1,1.2,0.0
+,"Peritoneum, Omentum and Mesentery","21120",1667,118282242,1.4,1.3,1.5,0.0,1.4,1.3,1.5,0.0
+,"Other Digestive Organs","21130",2748,118282242,2.4,2.3,2.4,0.0,2.3,2.2,2.4,0.0
+,"Respiratory System","22010-22060",220556,118282242,185.3,184.5,186.0,0.4,186.5,185.7,187.2,0.4
+,"Nose, Nasal Cavity and Middle Ear","22010",2258,118282242,1.9,1.8,2.0,0.0,1.9,1.8,2.0,0.0
+,"Larynx","22020",11228,118282242,9.2,9.0,9.3,0.1,9.5,9.3,9.7,0.1
+,"Lung and Bronchus","22030",206610,118282242,173.8,173.0,174.6,0.4,174.7,173.9,175.4,0.4
+,"Pleura","22050",96,118282242,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060",364,118282242,0.3,0.3,0.3,0.0,0.3,0.3,0.3,0.0
+,"Bones and Joints","23000",1724,118282242,1.5,1.4,1.5,0.0,1.5,1.4,1.5,0.0
+,"Soft Tissue including Heart","24000",8513,118282242,7.3,7.1,7.4,0.1,7.2,7.0,7.4,0.1
+,"Skin excluding Basal and Squamous","25010-25020",74949,118282242,63.8,63.3,64.3,0.2,63.4,62.9,63.8,0.2
+,"Melanoma of the Skin","25010",69274,118282242,58.8,58.4,59.2,0.2,58.6,58.1,59.0,0.2
+,"Other Non-Epithelial Skin","25020",5675,118282242,5.0,4.9,5.1,0.1,4.8,4.7,4.9,0.1
+,"Male and Female Breast","26000",209295,118282242,175.4,174.6,176.2,0.4,176.9,176.2,177.7,0.4
+,"Female Breast","26000-Female",207291,62308240,326.6,325.1,328.0,0.7,332.7,331.3,334.1,0.7
+,"Male Breast","26000-Male",2004,55974002,3.8,3.6,3.9,0.1,3.6,3.4,3.7,0.1
+,"Female Genital System","27010-27070",84115,62308240,131.0,130.1,131.9,0.5,135.0,134.1,135.9,0.5
+,"Cervix Uteri","27010",6395,62308240,10.3,10.1,10.6,0.1,10.3,10.0,10.5,0.1
+,"Corpus Uteri","27020",49477,62308240,76.2,75.5,76.9,0.3,79.4,78.7,80.1,0.4
+,"Uterus, NOS","27030",1742,62308240,2.7,2.6,2.9,0.1,2.8,2.7,2.9,0.1
+,"Ovary","27040",16197,62308240,25.6,25.2,26.0,0.2,26.0,25.6,26.4,0.2
+,"Vagina","27050",1238,62308240,1.9,1.8,2.1,0.1,2.0,1.9,2.1,0.1
+,"Vulva","27060",4978,62308240,7.9,7.6,8.1,0.1,8.0,7.8,8.2,0.1
+,"Other Female Genital Organs","27070",4088,62308240,6.4,6.2,6.6,0.1,6.6,6.4,6.8,0.1
+,"Male Genital System","28010-28040",218659,55974002,379.7,378.0,381.3,0.8,390.6,389.0,392.3,0.8
+,"Prostate","28010",215701,55974002,374.1,372.5,375.8,0.8,385.4,383.7,387.0,0.8
+,"Testis","28020",1270,55974002,2.3,2.1,2.4,0.1,2.3,2.1,2.4,0.1
+,"Penis","28030",1345,55974002,2.6,2.5,2.7,0.1,2.4,2.3,2.5,0.1
+,"Other Male Genital Organs","28040",343,55974002,0.6,0.6,0.7,0.0,0.6,0.5,0.7,0.0
+,"Urinary System","29010-29040",134487,118282242,114.4,113.8,115.1,0.3,113.7,113.1,114.3,0.3
+,"Urinary Bladder, invasive and in situ","29010",72771,118282242,62.9,62.4,63.4,0.2,61.5,61.1,62.0,0.2
+,"Kidney and Renal Pelvis","29020",57964,118282242,48.2,47.8,48.6,0.2,49.0,48.6,49.4,0.2
+,"Ureter","29030",2190,118282242,1.9,1.8,2.0,0.0,1.9,1.8,1.9,0.0
+,"Other Urinary Organs","29040",1562,118282242,1.4,1.3,1.4,0.0,1.3,1.3,1.4,0.0
+,"Eye and Orbit","30000",2376,118282242,2.0,1.9,2.1,0.0,2.0,1.9,2.1,0.0
+,"Brain and Other Nervous System","31010-31040",16655,118282242,14.0,13.8,14.2,0.1,14.1,13.9,14.3,0.1
+,"Brain","31010",16032,118282242,13.4,13.2,13.7,0.1,13.6,13.3,13.8,0.1
+,"Cranial Nerves Other Nervous System","31040",623,118282242,0.5,0.5,0.6,0.0,0.5,0.5,0.6,0.0
+,"Endocrine System","32010-32020",24732,118282242,20.7,20.4,21.0,0.1,20.9,20.6,21.2,0.1
+,"Thyroid","32010",22649,118282242,19.0,18.7,19.2,0.1,19.1,18.9,19.4,0.1
+,"Other Endocrine including Thymus","32020",2083,118282242,1.7,1.6,1.8,0.0,1.8,1.7,1.8,0.0
+,"Lymphomas","33011-33042",66058,118282242,56.4,56.0,56.8,0.2,55.8,55.4,56.3,0.2
+,"Hodgkin Lymphoma","33011-33012",3298,118282242,2.8,2.7,2.9,0.0,2.8,2.7,2.9,0.0
+,"Hodgkin - Nodal","33011",3232,118282242,2.8,2.7,2.9,0.0,2.7,2.6,2.8,0.0
+,"Hodgkin - Extranodal","33012",66,118282242,0.1,0.0,0.1,0.0,0.1,0.0,0.1,0.0
+,"Non-Hodgkin Lymphoma","33041-33042",62760,118282242,53.6,53.2,54.0,0.2,53.1,52.6,53.5,0.2
+,"NHL - Nodal","33041",43358,118282242,37.0,36.6,37.3,0.2,36.7,36.3,37.0,0.2
+,"NHL - Extranodal","33042",19402,118282242,16.6,16.4,16.9,0.1,16.4,16.2,16.6,0.1
+,"Myeloma","34000",26814,118282242,22.8,22.5,23.0,0.1,22.7,22.4,22.9,0.1
+,"Leukemias","35011-35043",44320,118282242,38.1,37.7,38.4,0.2,37.5,37.1,37.8,0.2
+,"Acute Lymphocytic Leukemia","35011",1574,118282242,1.3,1.3,1.4,0.0,1.3,1.3,1.4,0.0
+,"Chronic Lymphocytic Leukemia","35012",17980,118282242,15.3,15.1,15.5,0.1,15.2,15.0,15.4,0.1
+,"Acute Myeloid Leukemia","35021",13959,118282242,12.1,11.9,12.3,0.1,11.8,11.6,12.0,0.1
+,"Chronic Myeloid Leukemia","35022",5895,118282242,5.1,5.0,5.2,0.1,5.0,4.9,5.1,0.1
+,"Other Leukemias","35041-35043",4912,118282242,4.3,4.1,4.4,0.1,4.2,4.0,4.3,0.1
+,"Other Lymphocytic Leukemia","35013",1207,118282242,1.0,1.0,1.1,0.0,1.0,1.0,1.1,0.0
+,"Acute Monocytic Leukemia","35031",474,118282242,0.4,0.4,0.5,0.0,0.4,0.4,0.4,0.0
+,"Other Acute Leukemia","35041",708,118282242,0.6,0.6,0.7,0.0,0.6,0.6,0.6,0.0
+,"Aleukemic, Subleukemic and NOS","35043",2088,118282242,1.8,1.7,1.9,0.0,1.8,1.7,1.8,0.0
+,"Other Myeloid/Monocytic Leukemia","35023",435,118282242,0.4,0.3,0.4,0.0,0.4,0.3,0.4,0.0
+,"Mesothelioma","36010",2729,118282242,2.4,2.3,2.5,0.0,2.3,2.2,2.4,0.0
+,"Kaposi Sarcoma","36020",506,118282242,0.4,0.4,0.5,0.0,0.4,0.4,0.5,0.0
+,"Miscellaneous","37000",60817,118282242,53.0,52.6,53.4,0.2,51.4,51.0,51.8,0.2
+,"Male and Female Breast, In Situ","Breast-InSitu",43668,118282242,36.1,35.8,36.5,0.2,36.9,36.6,37.3,0.2
+,"Female Breast, In Situ","Breast-InSitu-Female",43500,62308240,68.6,68.0,69.3,0.3,69.8,69.2,70.5,0.3
+,"Male Breast, In Situ","Breast-InSitu-Male",168,55974002,0.3,0.3,0.4,0.0,0.3,0.3,0.3,0.0
+,"Invalid Value(s)","99999",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence"
+"Query Parameters:"
+"Age Groups: 50-54 years; 55-59 years; 60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years; 85+ years"
+"Year: 2020"
+"Group By: Cancer Sites"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2022.html for more information."
+"---"
+"Query Date: Nov 18, 2026 3:23:31 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2022, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2024 submission; 2025"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2022.html on Nov 18, 2026 3:23:31 PM"
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Genital Cancers List."
+"2. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"5. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

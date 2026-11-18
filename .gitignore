@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+# the scraper's own virtualenv (see scraper/README.md)
+scraper/.venv/
+# ingest.R writes only the .csv.gz files
+standard/*.csv

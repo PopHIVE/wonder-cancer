@@ -1,0 +1,146 @@
+"Notes","Cancer Sites","Cancer Sites Code","Year","Year Code",Count,Population,Age-Adjusted Rate,Age-Adjusted Rate Lower 95% Confidence Interval,Age-Adjusted Rate Upper 95% Confidence Interval,Age-Adjusted Rate Standard Error,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
+,"All Invasive Cancer Sites Combined","0","2016","2016",1740066,324372550,460.4,459.7,461.1,0.4,536.4,535.6,537.2,0.4
+,"Oral Cavity and Pharynx","20010-20100","2016","2016",47176,324372550,12.2,12.0,12.3,0.1,14.5,14.4,14.7,0.1
+,"Lip","20010","2016","2016",1994,324372550,0.5,0.5,0.6,0.0,0.6,0.6,0.6,0.0
+,"Tongue","20020","2016","2016",15039,324372550,3.8,3.8,3.9,0.0,4.6,4.6,4.7,0.0
+,"Salivary Gland","20030","2016","2016",4766,324372550,1.3,1.3,1.3,0.0,1.5,1.4,1.5,0.0
+,"Floor of Mouth","20040","2016","2016",2044,324372550,0.5,0.5,0.5,0.0,0.6,0.6,0.7,0.0
+,"Gum and Other Mouth","20050","2016","2016",6112,324372550,1.6,1.6,1.6,0.0,1.9,1.8,1.9,0.0
+,"Nasopharynx","20060","2016","2016",1941,324372550,0.5,0.5,0.6,0.0,0.6,0.6,0.6,0.0
+,"Tonsil","20070","2016","2016",9170,324372550,2.3,2.3,2.4,0.0,2.8,2.8,2.9,0.0
+,"Oropharynx","20080","2016","2016",2395,324372550,0.6,0.6,0.6,0.0,0.7,0.7,0.8,0.0
+,"Hypopharynx","20090","2016","2016",2343,324372550,0.6,0.6,0.6,0.0,0.7,0.7,0.8,0.0
+,"Other Oral Cavity and Pharynx","20100","2016","2016",1372,324372550,0.3,0.3,0.4,0.0,0.4,0.4,0.4,0.0
+,"Digestive System","21010-21130","2016","2016",309336,324372550,81.4,81.1,81.7,0.1,95.4,95.0,95.7,0.2
+,"Esophagus","21010","2016","2016",17938,324372550,4.6,4.5,4.7,0.0,5.5,5.4,5.6,0.0
+,"Stomach","21020","2016","2016",24792,324372550,6.6,6.5,6.7,0.0,7.6,7.5,7.7,0.0
+,"Small Intestine","21030","2016","2016",9823,324372550,2.6,2.6,2.7,0.0,3.0,3.0,3.1,0.0
+,"Colon and Rectum","21041-21052","2016","2016",145561,324372550,38.9,38.7,39.1,0.1,44.9,44.6,45.1,0.1
+,"Colon excluding Rectum","21041-21049","2016","2016",103342,324372550,27.7,27.5,27.9,0.1,31.9,31.7,32.1,0.1
+,"Cecum","21041","2016","2016",20739,324372550,5.5,5.5,5.6,0.0,6.4,6.3,6.5,0.0
+,"Appendix","21042","2016","2016",6003,324372550,1.7,1.7,1.7,0.0,1.9,1.8,1.9,0.0
+,"Ascending Colon","21043","2016","2016",19700,324372550,5.3,5.2,5.3,0.0,6.1,6.0,6.2,0.0
+,"Hepatic Flexure","21044","2016","2016",4431,324372550,1.2,1.2,1.2,0.0,1.4,1.3,1.4,0.0
+,"Transverse Colon","21045","2016","2016",9701,324372550,2.6,2.6,2.7,0.0,3.0,2.9,3.1,0.0
+,"Splenic Flexure","21046","2016","2016",2848,324372550,0.8,0.7,0.8,0.0,0.9,0.8,0.9,0.0
+,"Descending Colon","21047","2016","2016",5928,324372550,1.6,1.5,1.6,0.0,1.8,1.8,1.9,0.0
+,"Sigmoid Colon","21048","2016","2016",25576,324372550,6.8,6.7,6.9,0.0,7.9,7.8,8.0,0.0
+,"Large Intestine, NOS","21049","2016","2016",8416,324372550,2.2,2.2,2.3,0.0,2.6,2.5,2.7,0.0
+,"Rectum and Rectosigmoid Junction","21051-21052","2016","2016",42219,324372550,11.2,11.1,11.3,0.1,13.0,12.9,13.1,0.1
+,"Rectosigmoid Junction","21051","2016","2016",9523,324372550,2.5,2.5,2.6,0.0,2.9,2.9,3.0,0.0
+,"Rectum","21052","2016","2016",32696,324372550,8.7,8.6,8.8,0.0,10.1,10.0,10.2,0.1
+,"Anus, Anal Canal and Anorectum","21060","2016","2016",7792,324372550,2.0,2.0,2.1,0.0,2.4,2.3,2.5,0.0
+,"Liver and Intrahepatic Bile Duct","21071-21072","2016","2016",35573,324372550,8.8,8.7,8.9,0.0,11.0,10.9,11.1,0.1
+,"Liver","21071","2016","2016",30028,324372550,7.4,7.3,7.5,0.0,9.3,9.2,9.4,0.1
+,"Intrahepatic Bile Duct","21072","2016","2016",5545,324372550,1.4,1.4,1.5,0.0,1.7,1.7,1.8,0.0
+,"Gallbladder","21080","2016","2016",4225,324372550,1.1,1.1,1.2,0.0,1.3,1.3,1.3,0.0
+,"Other Biliary","21090","2016","2016",6592,324372550,1.7,1.7,1.8,0.0,2.0,2.0,2.1,0.0
+,"Pancreas","21100","2016","2016",50948,324372550,13.3,13.2,13.5,0.1,15.7,15.6,15.8,0.1
+,"Retroperitoneum","21110","2016","2016",1368,324372550,0.4,0.4,0.4,0.0,0.4,0.4,0.4,0.0
+,"Peritoneum, Omentum and Mesentery","21120","2016","2016",1887,324372550,0.5,0.5,0.5,0.0,0.6,0.6,0.6,0.0
+,"Other Digestive Organs","21130","2016","2016",2837,324372550,0.8,0.7,0.8,0.0,0.9,0.8,0.9,0.0
+,"Respiratory System","22010-22060","2016","2016",241739,324372550,62.8,62.5,63.0,0.1,74.5,74.2,74.8,0.2
+,"Nose, Nasal Cavity and Middle Ear","22010","2016","2016",2533,324372550,0.7,0.7,0.7,0.0,0.8,0.8,0.8,0.0
+,"Larynx","22020","2016","2016",12567,324372550,3.2,3.1,3.2,0.0,3.9,3.8,3.9,0.0
+,"Lung and Bronchus","22030","2016","2016",225915,324372550,58.7,58.4,58.9,0.1,69.6,69.4,69.9,0.1
+,"Pleura","22050","2016","2016",83,324372550,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","2016","2016",641,324372550,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Bones and Joints","23000","2016","2016",3360,324372550,1.0,1.0,1.0,0.0,1.0,1.0,1.1,0.0
+,"Soft Tissue including Heart","24000","2016","2016",12320,324372550,3.5,3.4,3.5,0.0,3.8,3.7,3.9,0.0
+,"Skin excluding Basal and Squamous","25010-25020","2016","2016",92148,324372550,25.1,24.9,25.2,0.1,28.4,28.2,28.6,0.1
+,"Melanoma of the Skin","25010","2016","2016",85508,324372550,23.2,23.1,23.4,0.1,26.4,26.2,26.5,0.1
+,"Other Non-Epithelial Skin","25020","2016","2016",6640,324372550,1.8,1.8,1.9,0.0,2.0,2.0,2.1,0.0
+,"Male and Female Breast","26000","2016","2016",253578,324372550,68.2,67.9,68.4,0.1,78.2,77.9,78.5,0.2
+,"Female Breast","26000-Female","2016","2016",251441,164062463,128.3,127.8,128.8,0.3,153.3,152.7,153.9,0.3
+,"Male Breast","26000-Male","2016","2016",2137,160310087,1.2,1.2,1.3,0.0,1.3,1.3,1.4,0.0
+,"Female Genital System","27010-27070","2016","2016",102774,164062463,51.9,51.6,52.2,0.2,62.6,62.3,63.0,0.2
+,"Cervix Uteri","27010","2016","2016",13378,164062463,7.9,7.8,8.1,0.1,8.2,8.0,8.3,0.1
+,"Corpus Uteri","27020","2016","2016",55883,164062463,27.1,26.8,27.3,0.1,34.1,33.8,34.3,0.1
+,"Uterus, NOS","27030","2016","2016",1963,164062463,1.0,0.9,1.0,0.0,1.2,1.1,1.3,0.0
+,"Ovary","27040","2016","2016",21341,164062463,10.9,10.7,11.0,0.1,13.0,12.8,13.2,0.1
+,"Vagina","27050","2016","2016",1344,164062463,0.7,0.6,0.7,0.0,0.8,0.8,0.9,0.0
+,"Vulva","27060","2016","2016",5343,164062463,2.7,2.6,2.7,0.0,3.3,3.2,3.3,0.0
+,"Other Female Genital Organs","27070","2016","2016",3522,164062463,1.7,1.7,1.8,0.0,2.1,2.1,2.2,0.0
+,"Male Genital System","28010-28040","2016","2016",217416,160310087,116.1,115.6,116.6,0.3,135.6,135.1,136.2,0.3
+,"Prostate","28010","2016","2016",206270,160310087,109.0,108.6,109.5,0.2,128.7,128.1,129.2,0.3
+,"Testis","28020","2016","2016",9174,160310087,5.9,5.7,6.0,0.1,5.7,5.6,5.8,0.1
+,"Penis","28030","2016","2016",1551,160310087,0.9,0.9,1.0,0.0,1.0,0.9,1.0,0.0
+,"Other Male Genital Organs","28040","2016","2016",421,160310087,0.2,0.2,0.3,0.0,0.3,0.2,0.3,0.0
+,"Urinary System","29010-29040","2016","2016",146994,324372550,38.9,38.7,39.1,0.1,45.3,45.1,45.5,0.1
+,"Urinary Bladder, invasive and in situ","29010","2016","2016",77151,324372550,20.4,20.3,20.6,0.1,23.8,23.6,24.0,0.1
+,"Kidney and Renal Pelvis","29020","2016","2016",66386,324372550,17.6,17.4,17.7,0.1,20.5,20.3,20.6,0.1
+,"Ureter","29030","2016","2016",2046,324372550,0.5,0.5,0.6,0.0,0.6,0.6,0.7,0.0
+,"Other Urinary Organs","29040","2016","2016",1411,324372550,0.4,0.4,0.4,0.0,0.4,0.4,0.5,0.0
+,"Eye and Orbit","30000","2016","2016",3192,324372550,0.9,0.8,0.9,0.0,1.0,1.0,1.0,0.0
+,"Brain and Other Nervous System","31010-31040","2016","2016",23350,324372550,6.6,6.5,6.6,0.0,7.2,7.1,7.3,0.0
+,"Brain","31010","2016","2016",21875,324372550,6.1,6.0,6.2,0.0,6.7,6.7,6.8,0.0
+,"Cranial Nerves Other Nervous System","31040","2016","2016",1475,324372550,0.4,0.4,0.5,0.0,0.5,0.4,0.5,0.0
+,"Endocrine System","32010-32020","2016","2016",52010,324372550,15.2,15.1,15.3,0.1,16.0,15.9,16.2,0.1
+,"Thyroid","32010","2016","2016",49204,324372550,14.4,14.3,14.5,0.1,15.2,15.0,15.3,0.1
+,"Other Endocrine including Thymus","32020","2016","2016",2806,324372550,0.8,0.8,0.8,0.0,0.9,0.8,0.9,0.0
+,"Lymphomas","33011-33042","2016","2016",81614,324372550,22.3,22.1,22.4,0.1,25.2,25.0,25.3,0.1
+,"Hodgkin Lymphoma","33011-33012","2016","2016",8747,324372550,2.6,2.6,2.7,0.0,2.7,2.6,2.8,0.0
+,"Hodgkin - Nodal","33011","2016","2016",8604,324372550,2.6,2.5,2.7,0.0,2.7,2.6,2.7,0.0
+,"Hodgkin - Extranodal","33012","2016","2016",143,324372550,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0
+,"Non-Hodgkin Lymphoma","33041-33042","2016","2016",72867,324372550,19.6,19.5,19.8,0.1,22.5,22.3,22.6,0.1
+,"NHL - Nodal","33041","2016","2016",49711,324372550,13.4,13.2,13.5,0.1,15.3,15.2,15.5,0.1
+,"NHL - Extranodal","33042","2016","2016",23156,324372550,6.3,6.2,6.4,0.0,7.1,7.0,7.2,0.0
+,"Myeloma","34000","2016","2016",28241,324372550,7.4,7.3,7.5,0.0,8.7,8.6,8.8,0.1
+,"Leukemias","35011-35043","2016","2016",54609,324372550,15.0,14.9,15.1,0.1,16.8,16.7,17.0,0.1
+,"Acute Lymphocytic Leukemia","35011","2016","2016",5416,324372550,1.7,1.7,1.8,0.0,1.7,1.6,1.7,0.0
+,"Chronic Lymphocytic Leukemia","35012","2016","2016",20200,324372550,5.3,5.2,5.3,0.0,6.2,6.1,6.3,0.0
+,"Acute Myeloid Leukemia","35021","2016","2016",15706,324372550,4.3,4.3,4.4,0.0,4.8,4.8,4.9,0.0
+,"Chronic Myeloid Leukemia","35022","2016","2016",7466,324372550,2.1,2.0,2.1,0.0,2.3,2.2,2.4,0.0
+,"Other Leukemias","35041-35043","2016","2016",5821,324372550,1.6,1.6,1.6,0.0,1.8,1.7,1.8,0.0
+,"Other Lymphocytic Leukemia","35013","2016","2016",1550,324372550,0.4,0.4,0.4,0.0,0.5,0.5,0.5,0.0
+,"Acute Monocytic Leukemia","35031","2016","2016",688,324372550,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Acute Leukemia","35041","2016","2016",849,324372550,0.2,0.2,0.3,0.0,0.3,0.2,0.3,0.0
+,"Aleukemic, Subleukemic and NOS","35043","2016","2016",2127,324372550,0.6,0.6,0.6,0.0,0.7,0.6,0.7,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","2016","2016",607,324372550,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Mesothelioma","36010","2016","2016",3225,324372550,0.9,0.8,0.9,0.0,1.0,1.0,1.0,0.0
+,"Kaposi Sarcoma","36020","2016","2016",1217,324372550,0.4,0.3,0.4,0.0,0.4,0.4,0.4,0.0
+,"Miscellaneous","37000","2016","2016",65767,324372550,17.8,17.6,17.9,0.1,20.3,20.1,20.4,0.1
+,"Male and Female Breast, In Situ","Breast-InSitu","2016","2016",56177,324372550,15.1,15.0,15.3,0.1,17.3,17.2,17.5,0.1
+,"Female Breast, In Situ","Breast-InSitu-Female","2016","2016",55960,164062463,29.0,28.7,29.2,0.1,34.1,33.8,34.4,0.1
+,"Male Breast, In Situ","Breast-InSitu-Male","2016","2016",217,160310087,0.1,0.1,0.1,0.0,0.1,0.1,0.2,0.0
+,"Invalid Value(s)","99999","2016","2016",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence"
+"Query Parameters:"
+"Year: 2016"
+"Group By: Cancer Sites; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2022.html for more information."
+"---"
+"Query Date: Nov 18, 2026 1:00:37 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2022, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2024 submission; 2025"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2022.html on Nov 18, 2026 1:00:37 AM"
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Genital Cancers List."
+"2. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"5. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

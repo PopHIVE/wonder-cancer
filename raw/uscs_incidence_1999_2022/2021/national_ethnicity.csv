@@ -1,0 +1,370 @@
+"Notes","Cancer Sites","Cancer Sites Code","Ethnicity","Ethnicity Code",Count,Population,Age-Adjusted Rate,Age-Adjusted Rate Lower 95% Confidence Interval,Age-Adjusted Rate Upper 95% Confidence Interval,Age-Adjusted Rate Standard Error,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
+,"All Invasive Cancer Sites Combined","0","Hispanic","2135-2",175245,62991410,362.4,360.6,364.1,0.9,278.2,276.9,279.5,0.7
+,"All Invasive Cancer Sites Combined","0","Non-Hispanic","2186-5",1694627,269057567,466.6,465.9,467.3,0.4,629.8,628.9,630.8,0.5
+,"All Invasive Cancer Sites Combined","0","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Oral Cavity and Pharynx","20010-20100","Hispanic","2135-2",3695,62991410,7.6,7.3,7.8,0.1,5.9,5.7,6.1,0.1
+,"Oral Cavity and Pharynx","20010-20100","Non-Hispanic","2186-5",48038,269057567,13.0,12.9,13.1,0.1,17.9,17.7,18.0,0.1
+,"Oral Cavity and Pharynx","20010-20100","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lip","20010","Hispanic","2135-2",109,62991410,0.2,0.2,0.3,0.0,0.2,0.1,0.2,0.0
+,"Lip","20010","Non-Hispanic","2186-5",1831,269057567,0.5,0.5,0.5,0.0,0.7,0.6,0.7,0.0
+,"Lip","20010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Tongue","20020","Hispanic","2135-2",1137,62991410,2.3,2.2,2.5,0.1,1.8,1.7,1.9,0.1
+,"Tongue","20020","Non-Hispanic","2186-5",15950,269057567,4.3,4.2,4.3,0.0,5.9,5.8,6.0,0.0
+,"Tongue","20020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Salivary Gland","20030","Hispanic","2135-2",519,62991410,1.0,1.0,1.1,0.0,0.8,0.8,0.9,0.0
+,"Salivary Gland","20030","Non-Hispanic","2186-5",4611,269057567,1.3,1.3,1.4,0.0,1.7,1.7,1.8,0.0
+,"Salivary Gland","20030","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Floor of Mouth","20040","Hispanic","2135-2",96,62991410,0.2,0.2,0.3,0.0,0.2,0.1,0.2,0.0
+,"Floor of Mouth","20040","Non-Hispanic","2186-5",1759,269057567,0.5,0.4,0.5,0.0,0.7,0.6,0.7,0.0
+,"Floor of Mouth","20040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Gum and Other Mouth","20050","Hispanic","2135-2",495,62991410,1.1,1.0,1.2,0.1,0.8,0.7,0.9,0.0
+,"Gum and Other Mouth","20050","Non-Hispanic","2186-5",6657,269057567,1.8,1.8,1.9,0.0,2.5,2.4,2.5,0.0
+,"Gum and Other Mouth","20050","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nasopharynx","20060","Hispanic","2135-2",181,62991410,0.4,0.3,0.4,0.0,0.3,0.2,0.3,0.0
+,"Nasopharynx","20060","Non-Hispanic","2186-5",1749,269057567,0.5,0.5,0.6,0.0,0.7,0.6,0.7,0.0
+,"Nasopharynx","20060","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Tonsil","20070","Hispanic","2135-2",676,62991410,1.3,1.2,1.4,0.1,1.1,1.0,1.2,0.0
+,"Tonsil","20070","Non-Hispanic","2186-5",9215,269057567,2.5,2.4,2.5,0.0,3.4,3.4,3.5,0.0
+,"Tonsil","20070","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Oropharynx","20080","Hispanic","2135-2",244,62991410,0.5,0.4,0.6,0.0,0.4,0.3,0.4,0.0
+,"Oropharynx","20080","Non-Hispanic","2186-5",3584,269057567,0.9,0.9,1.0,0.0,1.3,1.3,1.4,0.0
+,"Oropharynx","20080","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hypopharynx","20090","Hispanic","2135-2",173,62991410,0.4,0.3,0.4,0.0,0.3,0.2,0.3,0.0
+,"Hypopharynx","20090","Non-Hispanic","2186-5",2123,269057567,0.5,0.5,0.6,0.0,0.8,0.8,0.8,0.0
+,"Hypopharynx","20090","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Oral Cavity and Pharynx","20100","Hispanic","2135-2",65,62991410,0.2,0.1,0.2,0.0,0.1,0.1,0.1,0.0
+,"Other Oral Cavity and Pharynx","20100","Non-Hispanic","2186-5",559,269057567,0.1,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Oral Cavity and Pharynx","20100","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Digestive System","21010-21130","Hispanic","2135-2",38654,62991410,82.6,81.7,83.4,0.4,61.4,60.8,62.0,0.3
+,"Digestive System","21010-21130","Non-Hispanic","2186-5",292397,269057567,80.4,80.1,80.7,0.2,108.7,108.3,109.1,0.2
+,"Digestive System","21010-21130","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Esophagus","21010","Hispanic","2135-2",1312,62991410,2.8,2.6,3.0,0.1,2.1,2.0,2.2,0.1
+,"Esophagus","21010","Non-Hispanic","2186-5",18164,269057567,4.7,4.7,4.8,0.0,6.8,6.7,6.8,0.1
+,"Esophagus","21010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Stomach","21020","Hispanic","2135-2",4589,62991410,9.8,9.5,10.1,0.2,7.3,7.1,7.5,0.1
+,"Stomach","21020","Non-Hispanic","2186-5",23576,269057567,6.5,6.4,6.5,0.0,8.8,8.7,8.9,0.1
+,"Stomach","21020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Small Intestine","21030","Hispanic","2135-2",1044,62991410,2.2,2.0,2.3,0.1,1.7,1.6,1.8,0.1
+,"Small Intestine","21030","Non-Hispanic","2186-5",10500,269057567,2.9,2.9,3.0,0.0,3.9,3.8,4.0,0.0
+,"Small Intestine","21030","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Colon and Rectum","21041-21052","Hispanic","2135-2",16305,62991410,34.0,33.4,34.5,0.3,25.9,25.5,26.3,0.2
+,"Colon and Rectum","21041-21052","Non-Hispanic","2186-5",131678,269057567,37.6,37.4,37.8,0.1,48.9,48.7,49.2,0.1
+,"Colon and Rectum","21041-21052","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Colon excluding Rectum","21041-21049","Hispanic","2135-2",10969,62991410,23.4,22.9,23.8,0.2,17.4,17.1,17.7,0.2
+,"Colon excluding Rectum","21041-21049","Non-Hispanic","2186-5",92752,269057567,26.2,26.1,26.4,0.1,34.5,34.3,34.7,0.1
+,"Colon excluding Rectum","21041-21049","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cecum","21041","Hispanic","2135-2",1901,62991410,4.3,4.1,4.5,0.1,3.0,2.9,3.2,0.1
+,"Cecum","21041","Non-Hispanic","2186-5",18072,269057567,5.0,4.9,5.0,0.0,6.7,6.6,6.8,0.0
+,"Cecum","21041","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Appendix","21042","Hispanic","2135-2",785,62991410,1.4,1.3,1.5,0.1,1.2,1.2,1.3,0.0
+,"Appendix","21042","Non-Hispanic","2186-5",6060,269057567,1.9,1.9,2.0,0.0,2.3,2.2,2.3,0.0
+,"Appendix","21042","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ascending Colon","21043","Hispanic","2135-2",1949,62991410,4.4,4.2,4.6,0.1,3.1,3.0,3.2,0.1
+,"Ascending Colon","21043","Non-Hispanic","2186-5",17186,269057567,4.7,4.6,4.8,0.0,6.4,6.3,6.5,0.0
+,"Ascending Colon","21043","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hepatic Flexure","21044","Hispanic","2135-2",474,62991410,1.1,1.0,1.2,0.1,0.8,0.7,0.8,0.0
+,"Hepatic Flexure","21044","Non-Hispanic","2186-5",4126,269057567,1.1,1.1,1.2,0.0,1.5,1.5,1.6,0.0
+,"Hepatic Flexure","21044","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Transverse Colon","21045","Hispanic","2135-2",916,62991410,2.0,1.9,2.1,0.1,1.5,1.4,1.6,0.0
+,"Transverse Colon","21045","Non-Hispanic","2186-5",9011,269057567,2.5,2.4,2.5,0.0,3.3,3.3,3.4,0.0
+,"Transverse Colon","21045","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Splenic Flexure","21046","Hispanic","2135-2",293,62991410,0.6,0.5,0.7,0.0,0.5,0.4,0.5,0.0
+,"Splenic Flexure","21046","Non-Hispanic","2186-5",2677,269057567,0.8,0.7,0.8,0.0,1.0,1.0,1.0,0.0
+,"Splenic Flexure","21046","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Descending Colon","21047","Hispanic","2135-2",572,62991410,1.2,1.1,1.3,0.1,0.9,0.8,1.0,0.0
+,"Descending Colon","21047","Non-Hispanic","2186-5",5275,269057567,1.5,1.5,1.6,0.0,2.0,1.9,2.0,0.0
+,"Descending Colon","21047","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sigmoid Colon","21048","Hispanic","2135-2",3183,62991410,6.3,6.1,6.6,0.1,5.1,4.9,5.2,0.1
+,"Sigmoid Colon","21048","Non-Hispanic","2186-5",22587,269057567,6.6,6.5,6.7,0.0,8.4,8.3,8.5,0.1
+,"Sigmoid Colon","21048","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Large Intestine, NOS","21049","Hispanic","2135-2",896,62991410,2.1,1.9,2.2,0.1,1.4,1.3,1.5,0.0
+,"Large Intestine, NOS","21049","Non-Hispanic","2186-5",7758,269057567,2.1,2.1,2.2,0.0,2.9,2.8,2.9,0.0
+,"Large Intestine, NOS","21049","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Rectum and Rectosigmoid Junction","21051-21052","Hispanic","2135-2",5336,62991410,10.6,10.3,10.9,0.2,8.5,8.2,8.7,0.1
+,"Rectum and Rectosigmoid Junction","21051-21052","Non-Hispanic","2186-5",38926,269057567,11.3,11.2,11.5,0.1,14.5,14.3,14.6,0.1
+,"Rectum and Rectosigmoid Junction","21051-21052","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Rectosigmoid Junction","21051","Hispanic","2135-2",1114,62991410,2.2,2.1,2.4,0.1,1.8,1.7,1.9,0.1
+,"Rectosigmoid Junction","21051","Non-Hispanic","2186-5",7943,269057567,2.3,2.3,2.4,0.0,3.0,2.9,3.0,0.0
+,"Rectosigmoid Junction","21051","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Rectum","21052","Hispanic","2135-2",4222,62991410,8.4,8.1,8.6,0.1,6.7,6.5,6.9,0.1
+,"Rectum","21052","Non-Hispanic","2186-5",30983,269057567,9.0,8.9,9.1,0.1,11.5,11.4,11.6,0.1
+,"Rectum","21052","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anus, Anal Canal and Anorectum","21060","Hispanic","2135-2",717,62991410,1.5,1.4,1.6,0.1,1.1,1.1,1.2,0.0
+,"Anus, Anal Canal and Anorectum","21060","Non-Hispanic","2186-5",8173,269057567,2.2,2.2,2.3,0.0,3.0,3.0,3.1,0.0
+,"Anus, Anal Canal and Anorectum","21060","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Liver and Intrahepatic Bile Duct","21071-21072","Hispanic","2135-2",6552,62991410,14.0,13.7,14.4,0.2,10.4,10.2,10.7,0.1
+,"Liver and Intrahepatic Bile Duct","21071-21072","Non-Hispanic","2186-5",31642,269057567,8.1,8.0,8.2,0.0,11.8,11.6,11.9,0.1
+,"Liver and Intrahepatic Bile Duct","21071-21072","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Liver","21071","Hispanic","2135-2",5548,62991410,11.8,11.5,12.2,0.2,8.8,8.6,9.0,0.1
+,"Liver","21071","Non-Hispanic","2186-5",24751,269057567,6.3,6.2,6.4,0.0,9.2,9.1,9.3,0.1
+,"Liver","21071","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Intrahepatic Bile Duct","21072","Hispanic","2135-2",1004,62991410,2.2,2.1,2.3,0.1,1.6,1.5,1.7,0.1
+,"Intrahepatic Bile Duct","21072","Non-Hispanic","2186-5",6891,269057567,1.8,1.8,1.9,0.0,2.6,2.5,2.6,0.0
+,"Intrahepatic Bile Duct","21072","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Gallbladder","21080","Hispanic","2135-2",779,62991410,1.8,1.6,1.9,0.1,1.2,1.2,1.3,0.0
+,"Gallbladder","21080","Non-Hispanic","2186-5",3641,269057567,1.0,0.9,1.0,0.0,1.4,1.3,1.4,0.0
+,"Gallbladder","21080","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Biliary","21090","Hispanic","2135-2",1007,62991410,2.4,2.2,2.5,0.1,1.6,1.5,1.7,0.1
+,"Other Biliary","21090","Non-Hispanic","2186-5",6000,269057567,1.6,1.6,1.6,0.0,2.2,2.2,2.3,0.0
+,"Other Biliary","21090","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pancreas","21100","Hispanic","2135-2",5485,62991410,12.3,12.0,12.7,0.2,8.7,8.5,8.9,0.1
+,"Pancreas","21100","Non-Hispanic","2186-5",53001,269057567,14.1,13.9,14.2,0.1,19.7,19.5,19.9,0.1
+,"Pancreas","21100","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Retroperitoneum","21110","Hispanic","2135-2",285,62991410,0.6,0.5,0.6,0.0,0.5,0.4,0.5,0.0
+,"Retroperitoneum","21110","Non-Hispanic","2186-5",1617,269057567,0.5,0.5,0.5,0.0,0.6,0.6,0.6,0.0
+,"Retroperitoneum","21110","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Peritoneum, Omentum and Mesentery","21120","Hispanic","2135-2",186,62991410,0.4,0.3,0.5,0.0,0.3,0.3,0.3,0.0
+,"Peritoneum, Omentum and Mesentery","21120","Non-Hispanic","2186-5",1700,269057567,0.5,0.4,0.5,0.0,0.6,0.6,0.7,0.0
+,"Peritoneum, Omentum and Mesentery","21120","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Digestive Organs","21130","Hispanic","2135-2",393,62991410,0.9,0.8,1.0,0.0,0.6,0.6,0.7,0.0
+,"Other Digestive Organs","21130","Non-Hispanic","2186-5",2705,269057567,0.7,0.7,0.8,0.0,1.0,1.0,1.0,0.0
+,"Other Digestive Organs","21130","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Respiratory System","22010-22060","Hispanic","2135-2",13123,62991410,30.6,30.0,31.1,0.3,20.8,20.5,21.2,0.2
+,"Respiratory System","22010-22060","Non-Hispanic","2186-5",223528,269057567,57.7,57.4,57.9,0.1,83.1,82.7,83.4,0.2
+,"Respiratory System","22010-22060","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nose, Nasal Cavity and Middle Ear","22010","Hispanic","2135-2",308,62991410,0.6,0.5,0.7,0.0,0.5,0.4,0.5,0.0
+,"Nose, Nasal Cavity and Middle Ear","22010","Non-Hispanic","2186-5",2518,269057567,0.7,0.7,0.7,0.0,0.9,0.9,1.0,0.0
+,"Nose, Nasal Cavity and Middle Ear","22010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Larynx","22020","Hispanic","2135-2",968,62991410,2.1,2.0,2.2,0.1,1.5,1.4,1.6,0.0
+,"Larynx","22020","Non-Hispanic","2186-5",11223,269057567,2.9,2.9,3.0,0.0,4.2,4.1,4.2,0.0
+,"Larynx","22020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lung and Bronchus","22030","Hispanic","2135-2",11697,62991410,27.6,27.1,28.1,0.3,18.6,18.2,18.9,0.2
+,"Lung and Bronchus","22030","Non-Hispanic","2186-5",209150,269057567,53.8,53.6,54.1,0.1,77.7,77.4,78.1,0.2
+,"Lung and Bronchus","22030","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pleura","22050","Hispanic","2135-2",Suppressed,62991410,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Pleura","22050","Non-Hispanic","2186-5",96,269057567,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Pleura","22050","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Hispanic","2135-2",141,62991410,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Non-Hispanic","2186-5",541,269057567,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bones and Joints","23000","Hispanic","2135-2",610,62991410,1.0,0.9,1.1,0.0,1.0,0.9,1.0,0.0
+,"Bones and Joints","23000","Non-Hispanic","2186-5",2993,269057567,1.0,1.0,1.1,0.0,1.1,1.1,1.2,0.0
+,"Bones and Joints","23000","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Soft Tissue including Heart","24000","Hispanic","2135-2",1704,62991410,3.3,3.1,3.4,0.1,2.7,2.6,2.8,0.1
+,"Soft Tissue including Heart","24000","Non-Hispanic","2186-5",10880,269057567,3.4,3.3,3.4,0.0,4.0,4.0,4.1,0.0
+,"Soft Tissue including Heart","24000","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Skin excluding Basal and Squamous","25010-25020","Hispanic","2135-2",2824,62991410,5.9,5.7,6.1,0.1,4.5,4.3,4.7,0.1
+,"Skin excluding Basal and Squamous","25010-25020","Non-Hispanic","2186-5",98484,269057567,28.2,28.0,28.4,0.1,36.6,36.4,36.8,0.1
+,"Skin excluding Basal and Squamous","25010-25020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Melanoma of the Skin","25010","Hispanic","2135-2",2417,62991410,5.0,4.8,5.2,0.1,3.8,3.7,4.0,0.1
+,"Melanoma of the Skin","25010","Non-Hispanic","2186-5",92197,269057567,26.5,26.3,26.6,0.1,34.3,34.0,34.5,0.1
+,"Melanoma of the Skin","25010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Non-Epithelial Skin","25020","Hispanic","2135-2",407,62991410,0.9,0.8,1.0,0.0,0.6,0.6,0.7,0.0
+,"Other Non-Epithelial Skin","25020","Non-Hispanic","2186-5",6287,269057567,1.8,1.7,1.8,0.0,2.3,2.3,2.4,0.0
+,"Other Non-Epithelial Skin","25020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male and Female Breast","26000","Hispanic","2135-2",28429,62991410,56.3,55.6,56.9,0.3,45.1,44.6,45.7,0.3
+,"Male and Female Breast","26000","Non-Hispanic","2186-5",256223,269057567,74.0,73.7,74.3,0.2,95.2,94.9,95.6,0.2
+,"Male and Female Breast","26000","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Female Breast","26000-Female","Hispanic","2135-2",28279,31108626,107.4,106.2,108.7,0.7,90.9,89.8,92.0,0.5
+,"Female Breast","26000-Female","Non-Hispanic","2186-5",253994,136522124,140.0,139.4,140.6,0.3,186.0,185.3,186.8,0.4
+,"Female Breast","26000-Female","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast","26000-Male","Hispanic","2135-2",150,31882784,0.7,0.6,0.8,0.1,0.5,0.4,0.6,0.0
+,"Male Breast","26000-Male","Non-Hispanic","2186-5",2229,132535443,1.3,1.3,1.4,0.0,1.7,1.6,1.8,0.0
+,"Male Breast","26000-Male","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Female Genital System","27010-27070","Hispanic","2135-2",14140,31108626,52.6,51.7,53.5,0.5,45.5,44.7,46.2,0.4
+,"Female Genital System","27010-27070","Non-Hispanic","2186-5",95501,136522124,51.7,51.4,52.1,0.2,70.0,69.5,70.4,0.2
+,"Female Genital System","27010-27070","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cervix Uteri","27010","Hispanic","2135-2",2708,31108626,9.8,9.5,10.2,0.2,8.7,8.4,9.0,0.2
+,"Cervix Uteri","27010","Non-Hispanic","2186-5",10403,136522124,7.1,7.0,7.3,0.1,7.6,7.5,7.8,0.1
+,"Cervix Uteri","27010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Corpus Uteri","27020","Hispanic","2135-2",7347,31108626,27.1,26.5,27.8,0.3,23.6,23.1,24.2,0.3
+,"Corpus Uteri","27020","Non-Hispanic","2186-5",53544,136522124,27.5,27.3,27.8,0.1,39.2,38.9,39.6,0.2
+,"Corpus Uteri","27020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Uterus, NOS","27030","Hispanic","2135-2",335,31108626,1.3,1.1,1.4,0.1,1.1,1.0,1.2,0.1
+,"Uterus, NOS","27030","Non-Hispanic","2186-5",1945,136522124,1.0,1.0,1.1,0.0,1.4,1.4,1.5,0.0
+,"Uterus, NOS","27030","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ovary","27040","Hispanic","2135-2",2656,31108626,10.0,9.6,10.3,0.2,8.5,8.2,8.9,0.2
+,"Ovary","27040","Non-Hispanic","2186-5",18365,136522124,10.2,10.1,10.4,0.1,13.5,13.3,13.6,0.1
+,"Ovary","27040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Vagina","27050","Hispanic","2135-2",174,31108626,0.7,0.6,0.8,0.1,0.6,0.5,0.6,0.0
+,"Vagina","27050","Non-Hispanic","2186-5",1265,136522124,0.7,0.6,0.7,0.0,0.9,0.9,1.0,0.0
+,"Vagina","27050","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Vulva","27060","Hispanic","2135-2",424,31108626,1.7,1.6,1.9,0.1,1.4,1.2,1.5,0.1
+,"Vulva","27060","Non-Hispanic","2186-5",5715,136522124,3.0,2.9,3.1,0.0,4.2,4.1,4.3,0.1
+,"Vulva","27060","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Female Genital Organs","27070","Hispanic","2135-2",496,31108626,1.9,1.8,2.1,0.1,1.6,1.5,1.7,0.1
+,"Other Female Genital Organs","27070","Non-Hispanic","2186-5",4264,136522124,2.2,2.1,2.3,0.0,3.1,3.0,3.2,0.0
+,"Other Female Genital Organs","27070","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Genital System","28010-28040","Hispanic","2135-2",21841,31882784,98.8,97.4,100.2,0.7,68.5,67.6,69.4,0.5
+,"Male Genital System","28010-28040","Non-Hispanic","2186-5",241419,132535443,130.2,129.7,130.7,0.3,182.2,181.4,182.9,0.4
+,"Male Genital System","28010-28040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Prostate","28010","Hispanic","2135-2",19310,31882784,90.8,89.5,92.2,0.7,60.6,59.7,61.4,0.4
+,"Prostate","28010","Non-Hispanic","2186-5",232547,132535443,123.5,123.0,124.0,0.3,175.5,174.7,176.2,0.4
+,"Prostate","28010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Testis","28020","Hispanic","2135-2",2189,31882784,6.4,6.1,6.7,0.1,6.9,6.6,7.2,0.1
+,"Testis","28020","Non-Hispanic","2186-5",7243,132535443,5.7,5.6,5.9,0.1,5.5,5.3,5.6,0.1
+,"Testis","28020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Penis","28030","Hispanic","2135-2",301,31882784,1.4,1.2,1.6,0.1,0.9,0.8,1.1,0.1
+,"Penis","28030","Non-Hispanic","2186-5",1262,132535443,0.8,0.7,0.8,0.0,1.0,0.9,1.0,0.0
+,"Penis","28030","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Male Genital Organs","28040","Hispanic","2135-2",41,31882784,0.2,0.1,0.3,0.0,0.1,0.1,0.2,0.0
+,"Other Male Genital Organs","28040","Non-Hispanic","2186-5",367,132535443,0.2,0.2,0.2,0.0,0.3,0.2,0.3,0.0
+,"Other Male Genital Organs","28040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Urinary System","29010-29040","Hispanic","2135-2",13867,62991410,29.8,29.3,30.3,0.3,22.0,21.6,22.4,0.2
+,"Urinary System","29010-29040","Non-Hispanic","2186-5",141880,269057567,38.5,38.3,38.7,0.1,52.7,52.5,53.0,0.1
+,"Urinary System","29010-29040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Urinary Bladder, invasive and in situ","29010","Hispanic","2135-2",4546,62991410,10.9,10.6,11.3,0.2,7.2,7.0,7.4,0.1
+,"Urinary Bladder, invasive and in situ","29010","Non-Hispanic","2186-5",74964,269057567,19.8,19.7,20.0,0.1,27.9,27.7,28.1,0.1
+,"Urinary Bladder, invasive and in situ","29010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kidney and Renal Pelvis","29020","Hispanic","2135-2",9067,62991410,18.2,17.8,18.6,0.2,14.4,14.1,14.7,0.2
+,"Kidney and Renal Pelvis","29020","Non-Hispanic","2186-5",63335,269057567,17.7,17.5,17.8,0.1,23.5,23.4,23.7,0.1
+,"Kidney and Renal Pelvis","29020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ureter","29030","Hispanic","2135-2",139,62991410,0.3,0.3,0.4,0.0,0.2,0.2,0.3,0.0
+,"Ureter","29030","Non-Hispanic","2186-5",2021,269057567,0.5,0.5,0.6,0.0,0.8,0.7,0.8,0.0
+,"Ureter","29030","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Urinary Organs","29040","Hispanic","2135-2",115,62991410,0.3,0.2,0.3,0.0,0.2,0.2,0.2,0.0
+,"Other Urinary Organs","29040","Non-Hispanic","2186-5",1560,269057567,0.4,0.4,0.4,0.0,0.6,0.6,0.6,0.0
+,"Other Urinary Organs","29040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Eye and Orbit","30000","Hispanic","2135-2",262,62991410,0.5,0.4,0.6,0.0,0.4,0.4,0.5,0.0
+,"Eye and Orbit","30000","Non-Hispanic","2186-5",2873,269057567,0.9,0.8,0.9,0.0,1.1,1.0,1.1,0.0
+,"Eye and Orbit","30000","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Brain and Other Nervous System","31010-31040","Hispanic","2135-2",2791,62991410,5.2,5.0,5.4,0.1,4.4,4.3,4.6,0.1
+,"Brain and Other Nervous System","31010-31040","Non-Hispanic","2186-5",20747,269057567,6.4,6.4,6.5,0.0,7.7,7.6,7.8,0.1
+,"Brain and Other Nervous System","31010-31040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Brain","31010","Hispanic","2135-2",2619,62991410,4.9,4.7,5.1,0.1,4.2,4.0,4.3,0.1
+,"Brain","31010","Non-Hispanic","2186-5",19652,269057567,6.1,6.0,6.2,0.0,7.3,7.2,7.4,0.1
+,"Brain","31010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cranial Nerves Other Nervous System","31040","Hispanic","2135-2",172,62991410,0.3,0.3,0.4,0.0,0.3,0.2,0.3,0.0
+,"Cranial Nerves Other Nervous System","31040","Non-Hispanic","2186-5",1095,269057567,0.4,0.4,0.4,0.0,0.4,0.4,0.4,0.0
+,"Cranial Nerves Other Nervous System","31040","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Endocrine System","32010-32020","Hispanic","2135-2",8148,62991410,14.3,14.0,14.6,0.2,12.9,12.7,13.2,0.1
+,"Endocrine System","32010-32020","Non-Hispanic","2186-5",42726,269057567,14.3,14.1,14.4,0.1,15.9,15.7,16.0,0.1
+,"Endocrine System","32010-32020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Thyroid","32010","Hispanic","2135-2",7497,62991410,13.1,12.8,13.4,0.2,11.9,11.6,12.2,0.1
+,"Thyroid","32010","Non-Hispanic","2186-5",38184,269057567,12.8,12.7,13.0,0.1,14.2,14.0,14.3,0.1
+,"Thyroid","32010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Endocrine including Thymus","32020","Hispanic","2135-2",651,62991410,1.2,1.1,1.3,0.0,1.0,1.0,1.1,0.0
+,"Other Endocrine including Thymus","32020","Non-Hispanic","2186-5",4542,269057567,1.4,1.4,1.5,0.0,1.7,1.6,1.7,0.0
+,"Other Endocrine including Thymus","32020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lymphomas","33011-33042","Hispanic","2135-2",9778,62991410,20.0,19.6,20.4,0.2,15.5,15.2,15.8,0.2
+,"Lymphomas","33011-33042","Non-Hispanic","2186-5",73483,269057567,21.1,21.0,21.3,0.1,27.3,27.1,27.5,0.1
+,"Lymphomas","33011-33042","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hodgkin Lymphoma","33011-33012","Hispanic","2135-2",1358,62991410,2.3,2.2,2.4,0.1,2.2,2.0,2.3,0.1
+,"Hodgkin Lymphoma","33011-33012","Non-Hispanic","2186-5",7227,269057567,2.6,2.5,2.6,0.0,2.7,2.6,2.7,0.0
+,"Hodgkin Lymphoma","33011-33012","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hodgkin - Nodal","33011","Hispanic","2135-2",1341,62991410,2.3,2.1,2.4,0.1,2.1,2.0,2.2,0.1
+,"Hodgkin - Nodal","33011","Non-Hispanic","2186-5",7118,269057567,2.5,2.5,2.6,0.0,2.6,2.6,2.7,0.0
+,"Hodgkin - Nodal","33011","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hodgkin - Extranodal","33012","Hispanic","2135-2",17,62991410,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Hodgkin - Extranodal","33012","Non-Hispanic","2186-5",109,269057567,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Hodgkin - Extranodal","33012","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Non-Hodgkin Lymphoma","33041-33042","Hispanic","2135-2",8420,62991410,17.7,17.3,18.1,0.2,13.4,13.1,13.7,0.1
+,"Non-Hodgkin Lymphoma","33041-33042","Non-Hispanic","2186-5",66256,269057567,18.6,18.4,18.7,0.1,24.6,24.4,24.8,0.1
+,"Non-Hodgkin Lymphoma","33041-33042","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"NHL - Nodal","33041","Hispanic","2135-2",5625,62991410,11.9,11.5,12.2,0.2,8.9,8.7,9.2,0.1
+,"NHL - Nodal","33041","Non-Hispanic","2186-5",44719,269057567,12.4,12.3,12.6,0.1,16.6,16.5,16.8,0.1
+,"NHL - Nodal","33041","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"NHL - Extranodal","33042","Hispanic","2135-2",2795,62991410,5.8,5.6,6.1,0.1,4.4,4.3,4.6,0.1
+,"NHL - Extranodal","33042","Non-Hispanic","2186-5",21537,269057567,6.1,6.0,6.2,0.0,8.0,7.9,8.1,0.1
+,"NHL - Extranodal","33042","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Myeloma","34000","Hispanic","2135-2",3048,62991410,6.7,6.4,6.9,0.1,4.8,4.7,5.0,0.1
+,"Myeloma","34000","Non-Hispanic","2186-5",27170,269057567,7.3,7.2,7.4,0.0,10.1,10.0,10.2,0.1
+,"Myeloma","34000","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Leukemias","35011-35043","Hispanic","2135-2",6101,62991410,11.9,11.6,12.3,0.2,9.7,9.4,9.9,0.1
+,"Leukemias","35011-35043","Non-Hispanic","2186-5",50688,269057567,14.6,14.4,14.7,0.1,18.8,18.7,19.0,0.1
+,"Leukemias","35011-35043","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Acute Lymphocytic Leukemia","35011","Hispanic","2135-2",1727,62991410,2.6,2.5,2.8,0.1,2.7,2.6,2.9,0.1
+,"Acute Lymphocytic Leukemia","35011","Non-Hispanic","2186-5",3707,269057567,1.5,1.4,1.5,0.0,1.4,1.3,1.4,0.0
+,"Acute Lymphocytic Leukemia","35011","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Chronic Lymphocytic Leukemia","35012","Hispanic","2135-2",1015,62991410,2.4,2.2,2.5,0.1,1.6,1.5,1.7,0.1
+,"Chronic Lymphocytic Leukemia","35012","Non-Hispanic","2186-5",19433,269057567,5.1,5.0,5.2,0.0,7.2,7.1,7.3,0.1
+,"Chronic Lymphocytic Leukemia","35012","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Acute Myeloid Leukemia","35021","Hispanic","2135-2",1802,62991410,3.7,3.6,3.9,0.1,2.9,2.7,3.0,0.1
+,"Acute Myeloid Leukemia","35021","Non-Hispanic","2186-5",15333,269057567,4.4,4.3,4.5,0.0,5.7,5.6,5.8,0.0
+,"Acute Myeloid Leukemia","35021","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Chronic Myeloid Leukemia","35022","Hispanic","2135-2",907,62991410,1.8,1.7,1.9,0.1,1.4,1.3,1.5,0.0
+,"Chronic Myeloid Leukemia","35022","Non-Hispanic","2186-5",6946,269057567,2.1,2.0,2.1,0.0,2.6,2.5,2.6,0.0
+,"Chronic Myeloid Leukemia","35022","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Leukemias","35041-35043","Hispanic","2135-2",650,62991410,1.4,1.3,1.5,0.1,1.0,1.0,1.1,0.0
+,"Other Leukemias","35041-35043","Non-Hispanic","2186-5",5269,269057567,1.5,1.5,1.6,0.0,2.0,1.9,2.0,0.0
+,"Other Leukemias","35041-35043","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Lymphocytic Leukemia","35013","Hispanic","2135-2",134,62991410,0.3,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Other Lymphocytic Leukemia","35013","Non-Hispanic","2186-5",1449,269057567,0.4,0.4,0.4,0.0,0.5,0.5,0.6,0.0
+,"Other Lymphocytic Leukemia","35013","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Acute Monocytic Leukemia","35031","Hispanic","2135-2",56,62991410,0.1,0.1,0.2,0.0,0.1,0.1,0.1,0.0
+,"Acute Monocytic Leukemia","35031","Non-Hispanic","2186-5",492,269057567,0.1,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Acute Monocytic Leukemia","35031","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Acute Leukemia","35041","Hispanic","2135-2",112,62991410,0.2,0.2,0.3,0.0,0.2,0.1,0.2,0.0
+,"Other Acute Leukemia","35041","Non-Hispanic","2186-5",656,269057567,0.2,0.2,0.2,0.0,0.2,0.2,0.3,0.0
+,"Other Acute Leukemia","35041","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Aleukemic, Subleukemic and NOS","35043","Hispanic","2135-2",293,62991410,0.6,0.6,0.7,0.0,0.5,0.4,0.5,0.0
+,"Aleukemic, Subleukemic and NOS","35043","Non-Hispanic","2186-5",2153,269057567,0.6,0.6,0.6,0.0,0.8,0.8,0.8,0.0
+,"Aleukemic, Subleukemic and NOS","35043","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Myeloid/Monocytic Leukemia","35023","Hispanic","2135-2",55,62991410,0.1,0.1,0.2,0.0,0.1,0.1,0.1,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","Non-Hispanic","2186-5",519,269057567,0.2,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Mesothelioma","36010","Hispanic","2135-2",290,62991410,0.7,0.6,0.7,0.0,0.5,0.4,0.5,0.0
+,"Mesothelioma","36010","Non-Hispanic","2186-5",2669,269057567,0.7,0.7,0.8,0.0,1.0,1.0,1.0,0.0
+,"Mesothelioma","36010","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kaposi Sarcoma","36020","Hispanic","2135-2",246,62991410,0.5,0.4,0.5,0.0,0.4,0.3,0.4,0.0
+,"Kaposi Sarcoma","36020","Non-Hispanic","2186-5",811,269057567,0.3,0.3,0.3,0.0,0.3,0.3,0.3,0.0
+,"Kaposi Sarcoma","36020","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Miscellaneous","37000","Hispanic","2135-2",5694,62991410,13.3,12.9,13.7,0.2,9.0,8.8,9.3,0.1
+,"Miscellaneous","37000","Non-Hispanic","2186-5",62117,269057567,17.1,17.0,17.2,0.1,23.1,22.9,23.3,0.1
+,"Miscellaneous","37000","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male and Female Breast, In Situ","Breast-InSitu","Hispanic","2135-2",6460,62991410,12.4,12.1,12.7,0.2,10.3,10.0,10.5,0.1
+,"Male and Female Breast, In Situ","Breast-InSitu","Non-Hispanic","2186-5",57666,269057567,17.0,16.9,17.2,0.1,21.4,21.3,21.6,0.1
+,"Male and Female Breast, In Situ","Breast-InSitu","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Female Breast, In Situ","Breast-InSitu-Female","Hispanic","2135-2",6446,31108626,24.0,23.4,24.6,0.3,20.7,20.2,21.2,0.3
+,"Female Breast, In Situ","Breast-InSitu-Female","Non-Hispanic","2186-5",57426,136522124,32.7,32.4,33.0,0.1,42.1,41.7,42.4,0.2
+,"Female Breast, In Situ","Breast-InSitu-Female","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast, In Situ","Breast-InSitu-Male","Hispanic","2135-2",Suppressed,31882784,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Male Breast, In Situ","Breast-InSitu-Male","Non-Hispanic","2186-5",240,132535443,0.1,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Male Breast, In Situ","Breast-InSitu-Male","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Hispanic","2135-2",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Non-Hispanic","2186-5",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Unknown or Missing","UNK",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence"
+"Query Parameters:"
+"Year: 2021"
+"Group By: Cancer Sites; Ethnicity"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2022.html for more information."
+"---"
+"Query Date: Nov 18, 2026 3:55:54 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2022, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2024 submission; 2025"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2022.html on Nov 18, 2026 3:55:54 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. Statistics are suppressed to protect personal privacy, for the following conditions: <ol><li> Data are suppressed if the"
+"figures represent fewer than 16 cases for the specific category in the table cell. </li><li> Counts and rates are suppressed for"
+"cells at the Metropolitan Statistical Area (MSA) level for the race categories ""American Indian or Alaska Native"" or ""Asian"
+"or Pacific Islander"" when the specific category's population for rate calculations is less than 50,000 persons. </li><li> Data"
+"are suppressed at the state and MSA level for certain race and ethnicity groups: <ul><li> American Indian or Alaska Native data"
+"are suppressed at the state and MSA level for residents of Illinois, Kansas, New Jersey, and New York; </li><li> Hispanic Asian"
+"or Pacific Islander and Hispanic Black or African American data are suppressed at the state and MSA level for all years and for"
+"Non-Hispanic Asian or Pacific Islanders for 1999 for residents of Kansas. </li></ul> </li></ol> States decide whether to"
+"suppress data for specific race and ethnicity categories. The suppression criteria may vary in previous releases of these data"
+"More information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Genital Cancers List."
+"3. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"4. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

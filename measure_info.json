@@ -1,0 +1,208 @@
+{
+  "cancer_site": {
+    "id": "cancer_site",
+    "short_name": "Cancer site",
+    "long_name": "Primary cancer site",
+    "category": "cancer",
+    "short_description": "Primary cancer site, as labelled by CDC WONDER.",
+    "long_description": "Primary cancer site from the USCS site recode hierarchy (ICD-O-3, SEER site recode of March 1, 2018), as labelled by CDC WONDER. 'All Invasive Cancer Sites Combined' is the all-sites total. Parent sites and their child sites both appear, so never sum across cancer_site. WONDER's 'Invalid Value(s)' category is dropped.",
+    "measure_type": "category",
+    "unit": "",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_site_code": {
+    "id": "cancer_site_code",
+    "short_name": "Cancer site code",
+    "long_name": "CDC WONDER code for the primary cancer site",
+    "category": "cancer",
+    "short_description": "CDC WONDER code for cancer_site.",
+    "long_description": "CDC WONDER's code for cancer_site, stored as text. '0' is all sites combined. Most codes are SEER site recode numbers; a parent site's code is the range of its children's codes (e.g. '20010-20100' for Oral Cavity and Pharynx), and a few codes carry a suffix (e.g. '26000-Male', 'Breast-InSitu-Male').",
+    "measure_type": "identifier",
+    "unit": "CDC WONDER site code",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "race": {
+    "id": "race",
+    "short_name": "Race",
+    "long_name": "Race (all ethnicities)",
+    "category": "cancer",
+    "short_description": "Race, including Hispanic and non-Hispanic people.",
+    "long_description": "CDC WONDER's 5-category race variable: American Indian or Alaska Native, Asian or Pacific Islander, Black or African American, White, and 'Overall' for rows not broken down by race. Each race includes people of any ethnicity, so race levels overlap the ethnicity levels. 'Other Races and Unknown combined' and 'Not Available' are not included, so the races do not sum to the Overall total.",
+    "measure_type": "category",
+    "unit": "",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "ethnicity": {
+    "id": "ethnicity",
+    "short_name": "Hispanic ethnicity",
+    "long_name": "Hispanic ethnicity (all races)",
+    "category": "cancer",
+    "short_description": "Hispanic or Not Hispanic, any race.",
+    "long_description": "CDC WONDER's ethnicity variable: Hispanic, Not Hispanic (WONDER's 'Non-Hispanic'), and 'Overall' for rows not broken down by ethnicity. Each level includes people of any race. 'Unknown or Missing' is not included.",
+    "measure_type": "category",
+    "unit": "",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_cases": {
+    "id": "cancer_incidence_cases",
+    "short_name": "Cancer cases",
+    "long_name": "Annual count of new cancer cases",
+    "category": "cancer",
+    "short_description": "Annual count of new cancer cases.",
+    "long_description": "Annual count of new cancer cases from CDC WONDER's United States Cancer Statistics incidence database. Rows are by cancer site (USCS site recode hierarchy; parent and child sites both appear, so never sum across cancer_site) and by exactly one of age band (0-19, 20-49, 50+), sex, race, or Hispanic ethnicity, with the other dimensions 'Overall'. Race and ethnicity levels overlap (every race includes Hispanic people), so never sum across them. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0.",
+    "statement": "In {location}, there were {value} new cancer cases in {time}.",
+    "measure_type": "Count",
+    "unit": "Cases",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_population": {
+    "id": "cancer_incidence_population",
+    "short_name": "Population (incidence denominator)",
+    "long_name": "Population denominator for the cancer incidence rate",
+    "category": "cancer",
+    "short_description": "Population denominator for the cancer incidence rate.",
+    "long_description": "Population estimate CDC WONDER uses as the denominator for the cancer incidence rate, for the matching geography, year and demographic group. Never suppressed: it is reported even on rows with suppressed_flag = 1. Missing (NA) only where CDC reports no population denominator ('Not Applicable' / 'Not Available'), which is where missing_denom_flag = 1.",
+    "statement": "In {location}, the population denominator was {value} in {time}.",
+    "measure_type": "Count",
+    "unit": "Persons",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_crude_rate": {
+    "id": "cancer_incidence_crude_rate",
+    "short_name": "Cancer incidence rate (crude)",
+    "long_name": "Crude rate of new cancer cases per 100,000 population",
+    "category": "cancer",
+    "short_description": "Annual crude cancer incidence rate per 100,000 population.",
+    "long_description": "Crude rate of new cancer cases per 100,000 population, as reported by CDC WONDER (never computed here). Rows are by cancer site (USCS site recode hierarchy; parent and child sites both appear, so never sum across cancer_site) and by exactly one of age band (0-19, 20-49, 50+), sex, race, or Hispanic ethnicity, with the other dimensions 'Overall'. Race and ethnicity levels overlap (every race includes Hispanic people), so never sum across them. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0.",
+    "statement": "In {location}, the crude cancer incidence rate was {value} per 100,000 in {time}.",
+    "measure_type": "Rate",
+    "unit": "Cases per 100,000 population",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_crude_rate_lcl": {
+    "id": "cancer_incidence_crude_rate_lcl",
+    "short_name": "Cancer incidence rate (crude, lower CI)",
+    "long_name": "Lower bound of the 95% confidence interval for cancer_incidence_crude_rate",
+    "category": "cancer",
+    "short_description": "Lower 95% confidence bound for the crude cancer incidence rate.",
+    "long_description": "Lower bound of the 95% confidence interval for cancer_incidence_crude_rate, as reported by CDC WONDER. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0. Do not plot error bars wherever this is missing.",
+    "statement": "In {location}, the lower bound of the 95% CI for the crude cancer incidence rate was {value} in {time}.",
+    "measure_type": "Rate",
+    "unit": "Cases per 100,000 population",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_crude_rate_ucl": {
+    "id": "cancer_incidence_crude_rate_ucl",
+    "short_name": "Cancer incidence rate (crude, upper CI)",
+    "long_name": "Upper bound of the 95% confidence interval for cancer_incidence_crude_rate",
+    "category": "cancer",
+    "short_description": "Upper 95% confidence bound for the crude cancer incidence rate.",
+    "long_description": "Upper bound of the 95% confidence interval for cancer_incidence_crude_rate, as reported by CDC WONDER. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0. Do not plot error bars wherever this is missing.",
+    "statement": "In {location}, the upper bound of the 95% CI for the crude cancer incidence rate was {value} in {time}.",
+    "measure_type": "Rate",
+    "unit": "Cases per 100,000 population",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_age_adj_rate": {
+    "id": "cancer_incidence_age_adj_rate",
+    "short_name": "Cancer incidence rate (age-adjusted)",
+    "long_name": "Age-adjusted rate (2000 U.S. standard population) of new cancer cases per 100,000 population",
+    "category": "cancer",
+    "short_description": "Annual age-adjusted cancer incidence rate per 100,000 population.",
+    "long_description": "Age-adjusted rate (2000 U.S. standard population) of new cancer cases per 100,000 population, as reported by CDC WONDER (never computed here). Within an age band, the rate is age-adjusted across the band's five-year groups. Rows are by cancer site (USCS site recode hierarchy; parent and child sites both appear, so never sum across cancer_site) and by exactly one of age band (0-19, 20-49, 50+), sex, race, or Hispanic ethnicity, with the other dimensions 'Overall'. Race and ethnicity levels overlap (every race includes Hispanic people), so never sum across them. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0.",
+    "statement": "In {location}, the age-adjusted cancer incidence rate was {value} per 100,000 in {time}.",
+    "measure_type": "Rate",
+    "unit": "Cases per 100,000 population",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_age_adj_rate_lcl": {
+    "id": "cancer_incidence_age_adj_rate_lcl",
+    "short_name": "Cancer incidence rate (age-adjusted, lower CI)",
+    "long_name": "Lower bound of the 95% confidence interval for cancer_incidence_age_adj_rate",
+    "category": "cancer",
+    "short_description": "Lower 95% confidence bound for the age-adjusted cancer incidence rate.",
+    "long_description": "Lower bound of the 95% confidence interval for cancer_incidence_age_adj_rate, as reported by CDC WONDER. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0. Do not plot error bars wherever this is missing.",
+    "statement": "In {location}, the lower bound of the 95% CI for the age-adjusted cancer incidence rate was {value} in {time}.",
+    "measure_type": "Rate",
+    "unit": "Cases per 100,000 population",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "cancer_incidence_age_adj_rate_ucl": {
+    "id": "cancer_incidence_age_adj_rate_ucl",
+    "short_name": "Cancer incidence rate (age-adjusted, upper CI)",
+    "long_name": "Upper bound of the 95% confidence interval for cancer_incidence_age_adj_rate",
+    "category": "cancer",
+    "short_description": "Upper 95% confidence bound for the age-adjusted cancer incidence rate.",
+    "long_description": "Upper bound of the 95% confidence interval for cancer_incidence_age_adj_rate, as reported by CDC WONDER. Missing (NA) wherever no value is available: suppressed_flag = 1 where CDC withheld the cell for confidentiality (fewer than 16 cases in the cell), missing_denom_flag = 1 where CDC reports no population denominator ('Not Applicable' / 'Not Available'). Both can be 1 on the same row. A true zero is reported as 0. Do not plot error bars wherever this is missing.",
+    "statement": "In {location}, the upper bound of the 95% CI for the age-adjusted cancer incidence rate was {value} in {time}.",
+    "measure_type": "Rate",
+    "unit": "Cases per 100,000 population",
+    "time_resolution": "Year",
+    "sources": [
+      {
+        "id": "cdc_wonder_uscs_incidence"
+      }
+    ]
+  },
+  "_sources": {
+    "cdc_wonder_uscs_incidence": {
+      "name": "CDC WONDER United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence",
+      "url": "https://wonder.cdc.gov/cancer-v2022.html",
+      "organization": "CDC Division of Cancer Prevention and Control and National Cancer Institute",
+      "organization_url": "https://www.cdc.gov/united-states-cancer-statistics/",
+      "description": "New cancer cases reported to CDC's National Program of Cancer Registries and NCI's SEER Program (2024 submission, 2025 release). Pulled for 2010-2022 (the database covers 1999-2022). Puerto Rico is not included. Race is the database's 5-category race variable (American Indian or Alaska Native, Asian or Pacific Islander, Black or African American, White; 'Other Races and Unknown combined' is not included). Race and Hispanic ethnicity are separate columns because their levels overlap: every race includes Hispanic people. Some states' data do not meet USCS publication criteria for some years and are absent or suppressed for those years. Queried through CDC WONDER by scraper/cancer_scraper.py, one query per year x geography level (national, state) x breakdown; every query is grouped by Cancer Sites. Breakdowns are queried separately, not cross-tabulated: all demographics (total), age band, sex, race, and Hispanic ethnicity. Age bands are 0-19, 20-49 and 50+: WONDER's cancer databases only offer five-year age groups, so a split at 18 is not possible; each band is its own query with the five-year groups filtered to the band, so counts, rates, confidence intervals and suppression are CDC's own for the band. County-level data are not available: USCS in CDC WONDER goes no finer than state (plus regions/divisions and large MSAs). National rows (geography 00) come from CDC's own national queries, never from summing states, and state 'Overall' rows from CDC's own state totals. Rows for sex-specific sites crossed with the other sex (e.g. cervix x male), which CDC reports as 'Not Applicable' in every cell, are dropped. Unknown/not-stated race and ethnicity categories, and WONDER's 'Invalid Value(s)' cancer site, are not included. Missing values are left empty (NA) with two independent row-level flags: suppressed_flag (CDC confidentiality suppression, fewer than 16 cases or deaths) and missing_denom_flag (no population denominator).",
+      "restrictions": "Public domain. Use subject to CDC WONDER's data use restrictions; cite as suggested in each export's footer."
+    }
+  }
+}

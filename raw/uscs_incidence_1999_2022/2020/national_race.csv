@@ -1,0 +1,580 @@
+"Notes","Cancer Sites","Cancer Sites Code","Race","Race Code",Count,Population,Age-Adjusted Rate,Age-Adjusted Rate Lower 95% Confidence Interval,Age-Adjusted Rate Upper 95% Confidence Interval,Age-Adjusted Rate Standard Error,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
+,"All Invasive Cancer Sites Combined","0","American Indian or Alaska Native","1002-5",11753,4902187,282.7,277.4,288.1,2.7,239.8,235.4,244.1,2.2
+,"All Invasive Cancer Sites Combined","0","Asian or Pacific Islander","A-PI",62240,22739240,271.0,268.8,273.1,1.1,273.7,271.6,275.9,1.1
+,"All Invasive Cancer Sites Combined","0","Black or African American","2054-5",192148,47571210,412.8,410.9,414.7,1.0,403.9,402.1,405.7,0.9
+,"All Invasive Cancer Sites Combined","0","White","2106-3",1422688,256314296,427.1,426.4,427.9,0.4,555.1,554.1,556.0,0.5
+,"All Invasive Cancer Sites Combined","0","Other Races and Unknown combined","2131-1",29926,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Oral Cavity and Pharynx","20010-20100","American Indian or Alaska Native","1002-5",356,4902187,8.1,7.3,9.1,0.5,7.3,6.5,8.1,0.4
+,"Oral Cavity and Pharynx","20010-20100","Asian or Pacific Islander","A-PI",1855,22739240,7.9,7.5,8.3,0.2,8.2,7.8,8.5,0.2
+,"Oral Cavity and Pharynx","20010-20100","Black or African American","2054-5",3817,47571210,7.9,7.7,8.2,0.1,8.0,7.8,8.3,0.1
+,"Oral Cavity and Pharynx","20010-20100","White","2106-3",42079,256314296,12.4,12.2,12.5,0.1,16.4,16.3,16.6,0.1
+,"Oral Cavity and Pharynx","20010-20100","Other Races and Unknown combined","2131-1",771,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lip","20010","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Lip","20010","Asian or Pacific Islander","A-PI",17,22739240,0.1,0.0,0.1,0.0,0.1,0.0,0.1,0.0
+,"Lip","20010","Black or African American","2054-5",23,47571210,0.1,0.0,0.1,0.0,0.0,0.0,0.1,0.0
+,"Lip","20010","White","2106-3",1592,256314296,0.5,0.4,0.5,0.0,0.6,0.6,0.7,0.0
+,"Lip","20010","Other Races and Unknown combined","2131-1",144,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Tongue","20020","American Indian or Alaska Native","1002-5",103,4902187,2.4,1.9,2.9,0.2,2.1,1.7,2.5,0.2
+,"Tongue","20020","Asian or Pacific Islander","A-PI",529,22739240,2.3,2.1,2.5,0.1,2.3,2.1,2.5,0.1
+,"Tongue","20020","Black or African American","2054-5",911,47571210,1.9,1.7,2.0,0.1,1.9,1.8,2.0,0.1
+,"Tongue","20020","White","2106-3",14435,256314296,4.2,4.1,4.3,0.0,5.6,5.5,5.7,0.0
+,"Tongue","20020","Other Races and Unknown combined","2131-1",210,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Salivary Gland","20030","American Indian or Alaska Native","1002-5",32,4902187,0.8,0.6,1.2,0.2,0.7,0.4,0.9,0.1
+,"Salivary Gland","20030","Asian or Pacific Islander","A-PI",201,22739240,0.9,0.7,1.0,0.1,0.9,0.8,1.0,0.1
+,"Salivary Gland","20030","Black or African American","2054-5",523,47571210,1.1,1.0,1.2,0.1,1.1,1.0,1.2,0.0
+,"Salivary Gland","20030","White","2106-3",3972,256314296,1.2,1.2,1.3,0.0,1.5,1.5,1.6,0.0
+,"Salivary Gland","20030","Other Races and Unknown combined","2131-1",93,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Floor of Mouth","20040","American Indian or Alaska Native","1002-5",19,4902187,0.4,0.2,0.6,0.1,0.4,0.2,0.6,0.1
+,"Floor of Mouth","20040","Asian or Pacific Islander","A-PI",46,22739240,0.2,0.1,0.3,0.0,0.2,0.1,0.3,0.0
+,"Floor of Mouth","20040","Black or African American","2054-5",155,47571210,0.3,0.3,0.4,0.0,0.3,0.3,0.4,0.0
+,"Floor of Mouth","20040","White","2106-3",1538,256314296,0.4,0.4,0.5,0.0,0.6,0.6,0.6,0.0
+,"Floor of Mouth","20040","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Gum and Other Mouth","20050","American Indian or Alaska Native","1002-5",51,4902187,1.3,0.9,1.7,0.2,1.0,0.8,1.4,0.1
+,"Gum and Other Mouth","20050","Asian or Pacific Islander","A-PI",370,22739240,1.6,1.4,1.8,0.1,1.6,1.5,1.8,0.1
+,"Gum and Other Mouth","20050","Black or African American","2054-5",503,47571210,1.1,1.0,1.2,0.1,1.1,1.0,1.2,0.0
+,"Gum and Other Mouth","20050","White","2106-3",5507,256314296,1.6,1.6,1.7,0.0,2.1,2.1,2.2,0.0
+,"Gum and Other Mouth","20050","Other Races and Unknown combined","2131-1",115,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nasopharynx","20060","American Indian or Alaska Native","1002-5",29,4902187,0.7,0.5,1.0,0.1,0.6,0.4,0.8,0.1
+,"Nasopharynx","20060","Asian or Pacific Islander","A-PI",422,22739240,1.7,1.6,1.9,0.1,1.9,1.7,2.0,0.1
+,"Nasopharynx","20060","Black or African American","2054-5",297,47571210,0.6,0.6,0.7,0.0,0.6,0.6,0.7,0.0
+,"Nasopharynx","20060","White","2106-3",1099,256314296,0.3,0.3,0.4,0.0,0.4,0.4,0.5,0.0
+,"Nasopharynx","20060","Other Races and Unknown combined","2131-1",39,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Tonsil","20070","American Indian or Alaska Native","1002-5",71,4902187,1.5,1.2,1.9,0.2,1.4,1.1,1.8,0.2
+,"Tonsil","20070","Asian or Pacific Islander","A-PI",148,22739240,0.6,0.5,0.7,0.1,0.7,0.6,0.8,0.1
+,"Tonsil","20070","Black or African American","2054-5",677,47571210,1.4,1.3,1.5,0.1,1.4,1.3,1.5,0.1
+,"Tonsil","20070","White","2106-3",8437,256314296,2.5,2.4,2.5,0.0,3.3,3.2,3.4,0.0
+,"Tonsil","20070","Other Races and Unknown combined","2131-1",103,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Oropharynx","20080","American Indian or Alaska Native","1002-5",29,4902187,0.6,0.4,0.9,0.1,0.6,0.4,0.8,0.1
+,"Oropharynx","20080","Asian or Pacific Islander","A-PI",49,22739240,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Oropharynx","20080","Black or African American","2054-5",356,47571210,0.7,0.6,0.8,0.0,0.7,0.7,0.8,0.0
+,"Oropharynx","20080","White","2106-3",3155,256314296,0.9,0.9,0.9,0.0,1.2,1.2,1.3,0.0
+,"Oropharynx","20080","Other Races and Unknown combined","2131-1",38,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hypopharynx","20090","American Indian or Alaska Native","1002-5",18,4902187,0.3,0.2,0.6,0.1,0.4,0.2,0.6,0.1
+,"Hypopharynx","20090","Asian or Pacific Islander","A-PI",62,22739240,0.3,0.2,0.3,0.0,0.3,0.2,0.3,0.0
+,"Hypopharynx","20090","Black or African American","2054-5",291,47571210,0.6,0.5,0.7,0.0,0.6,0.5,0.7,0.0
+,"Hypopharynx","20090","White","2106-3",1794,256314296,0.5,0.5,0.5,0.0,0.7,0.7,0.7,0.0
+,"Hypopharynx","20090","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Oral Cavity and Pharynx","20100","American Indian or Alaska Native","1002-5",0,4902187,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Other Oral Cavity and Pharynx","20100","Asian or Pacific Islander","A-PI",Suppressed,22739240,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other Oral Cavity and Pharynx","20100","Black or African American","2054-5",81,47571210,0.2,0.1,0.2,0.0,0.2,0.1,0.2,0.0
+,"Other Oral Cavity and Pharynx","20100","White","2106-3",550,256314296,0.2,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Oral Cavity and Pharynx","20100","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Digestive System","21010-21130","American Indian or Alaska Native","1002-5",2698,4902187,65.4,62.9,68.1,1.3,55.0,53.0,57.2,1.1
+,"Digestive System","21010-21130","Asian or Pacific Islander","A-PI",13802,22739240,61.1,60.0,62.1,0.5,60.7,59.7,61.7,0.5
+,"Digestive System","21010-21130","Black or African American","2054-5",38655,47571210,84.6,83.7,85.5,0.4,81.3,80.4,82.1,0.4
+,"Digestive System","21010-21130","White","2106-3",245043,256314296,73.2,72.9,73.5,0.2,95.6,95.2,96.0,0.2
+,"Digestive System","21010-21130","Other Races and Unknown combined","2131-1",3783,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Esophagus","21010","American Indian or Alaska Native","1002-5",138,4902187,3.4,2.8,4.1,0.3,2.8,2.4,3.3,0.2
+,"Esophagus","21010","Asian or Pacific Islander","A-PI",493,22739240,2.1,2.0,2.3,0.1,2.2,2.0,2.4,0.1
+,"Esophagus","21010","Black or African American","2054-5",1521,47571210,3.2,3.1,3.4,0.1,3.2,3.0,3.4,0.1
+,"Esophagus","21010","White","2106-3",16473,256314296,4.7,4.6,4.8,0.0,6.4,6.3,6.5,0.1
+,"Esophagus","21010","Other Races and Unknown combined","2131-1",124,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Stomach","21020","American Indian or Alaska Native","1002-5",235,4902187,5.8,5.0,6.6,0.4,4.8,4.2,5.4,0.3
+,"Stomach","21020","Asian or Pacific Islander","A-PI",1737,22739240,7.8,7.4,8.2,0.2,7.6,7.3,8.0,0.2
+,"Stomach","21020","Black or African American","2054-5",3937,47571210,8.9,8.6,9.2,0.1,8.3,8.0,8.5,0.1
+,"Stomach","21020","White","2106-3",17418,256314296,5.2,5.2,5.3,0.0,6.8,6.7,6.9,0.1
+,"Stomach","21020","Other Races and Unknown combined","2131-1",420,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Small Intestine","21030","American Indian or Alaska Native","1002-5",68,4902187,1.6,1.2,2.1,0.2,1.4,1.1,1.8,0.2
+,"Small Intestine","21030","Asian or Pacific Islander","A-PI",307,22739240,1.3,1.2,1.5,0.1,1.4,1.2,1.5,0.1
+,"Small Intestine","21030","Black or African American","2054-5",1791,47571210,3.9,3.7,4.1,0.1,3.8,3.6,3.9,0.1
+,"Small Intestine","21030","White","2106-3",7753,256314296,2.3,2.3,2.4,0.0,3.0,3.0,3.1,0.0
+,"Small Intestine","21030","Other Races and Unknown combined","2131-1",144,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Colon and Rectum","21041-21052","American Indian or Alaska Native","1002-5",1106,4902187,26.7,25.1,28.4,0.8,22.6,21.3,23.9,0.7
+,"Colon and Rectum","21041-21052","Asian or Pacific Islander","A-PI",5707,22739240,25.0,24.4,25.7,0.3,25.1,24.5,25.8,0.3
+,"Colon and Rectum","21041-21052","Black or African American","2054-5",16617,47571210,36.8,36.2,37.4,0.3,34.9,34.4,35.5,0.3
+,"Colon and Rectum","21041-21052","White","2106-3",108496,256314296,33.5,33.3,33.7,0.1,42.3,42.1,42.6,0.1
+,"Colon and Rectum","21041-21052","Other Races and Unknown combined","2131-1",1936,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Colon excluding Rectum","21041-21049","American Indian or Alaska Native","1002-5",731,4902187,18.1,16.7,19.5,0.7,14.9,13.9,16.0,0.6
+,"Colon excluding Rectum","21041-21049","Asian or Pacific Islander","A-PI",3610,22739240,16.0,15.5,16.6,0.3,15.9,15.4,16.4,0.3
+,"Colon excluding Rectum","21041-21049","Black or African American","2054-5",12225,47571210,27.3,26.8,27.8,0.3,25.7,25.2,26.2,0.2
+,"Colon excluding Rectum","21041-21049","White","2106-3",76341,256314296,23.4,23.2,23.6,0.1,29.8,29.6,30.0,0.1
+,"Colon excluding Rectum","21041-21049","Other Races and Unknown combined","2131-1",1239,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cecum","21041","American Indian or Alaska Native","1002-5",149,4902187,3.8,3.2,4.5,0.3,3.0,2.6,3.6,0.2
+,"Cecum","21041","Asian or Pacific Islander","A-PI",471,22739240,2.2,2.0,2.4,0.1,2.1,1.9,2.3,0.1
+,"Cecum","21041","Black or African American","2054-5",2396,47571210,5.4,5.2,5.7,0.1,5.0,4.8,5.2,0.1
+,"Cecum","21041","White","2106-3",14842,256314296,4.4,4.3,4.5,0.0,5.8,5.7,5.9,0.0
+,"Cecum","21041","Other Races and Unknown combined","2131-1",157,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Appendix","21042","American Indian or Alaska Native","1002-5",53,4902187,1.2,0.9,1.6,0.2,1.1,0.8,1.4,0.1
+,"Appendix","21042","Asian or Pacific Islander","A-PI",194,22739240,0.8,0.7,1.0,0.1,0.9,0.7,1.0,0.1
+,"Appendix","21042","Black or African American","2054-5",581,47571210,1.2,1.1,1.4,0.1,1.2,1.1,1.3,0.1
+,"Appendix","21042","White","2106-3",5557,256314296,1.9,1.9,2.0,0.0,2.2,2.1,2.2,0.0
+,"Appendix","21042","Other Races and Unknown combined","2131-1",108,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ascending Colon","21043","American Indian or Alaska Native","1002-5",108,4902187,2.8,2.3,3.4,0.3,2.2,1.8,2.7,0.2
+,"Ascending Colon","21043","Asian or Pacific Islander","A-PI",511,22739240,2.3,2.1,2.6,0.1,2.2,2.1,2.5,0.1
+,"Ascending Colon","21043","Black or African American","2054-5",2391,47571210,5.4,5.2,5.6,0.1,5.0,4.8,5.2,0.1
+,"Ascending Colon","21043","White","2106-3",14342,256314296,4.3,4.2,4.3,0.0,5.6,5.5,5.7,0.0
+,"Ascending Colon","21043","Other Races and Unknown combined","2131-1",209,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hepatic Flexure","21044","American Indian or Alaska Native","1002-5",35,4902187,0.8,0.6,1.2,0.1,0.7,0.5,1.0,0.1
+,"Hepatic Flexure","21044","Asian or Pacific Islander","A-PI",164,22739240,0.7,0.6,0.9,0.1,0.7,0.6,0.8,0.1
+,"Hepatic Flexure","21044","Black or African American","2054-5",527,47571210,1.2,1.1,1.3,0.1,1.1,1.0,1.2,0.0
+,"Hepatic Flexure","21044","White","2106-3",3410,256314296,1.0,1.0,1.1,0.0,1.3,1.3,1.4,0.0
+,"Hepatic Flexure","21044","Other Races and Unknown combined","2131-1",50,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Transverse Colon","21045","American Indian or Alaska Native","1002-5",70,4902187,1.8,1.4,2.3,0.2,1.4,1.1,1.8,0.2
+,"Transverse Colon","21045","Asian or Pacific Islander","A-PI",351,22739240,1.6,1.4,1.8,0.1,1.5,1.4,1.7,0.1
+,"Transverse Colon","21045","Black or African American","2054-5",1152,47571210,2.6,2.4,2.7,0.1,2.4,2.3,2.6,0.1
+,"Transverse Colon","21045","White","2106-3",7267,256314296,2.2,2.1,2.2,0.0,2.8,2.8,2.9,0.0
+,"Transverse Colon","21045","Other Races and Unknown combined","2131-1",103,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Splenic Flexure","21046","American Indian or Alaska Native","1002-5",18,4902187,0.4,0.2,0.6,0.1,0.4,0.2,0.6,0.1
+,"Splenic Flexure","21046","Asian or Pacific Islander","A-PI",107,22739240,0.5,0.4,0.6,0.0,0.5,0.4,0.6,0.0
+,"Splenic Flexure","21046","Black or African American","2054-5",497,47571210,1.1,1.0,1.2,0.1,1.0,1.0,1.1,0.0
+,"Splenic Flexure","21046","White","2106-3",2045,256314296,0.6,0.6,0.7,0.0,0.8,0.8,0.8,0.0
+,"Splenic Flexure","21046","Other Races and Unknown combined","2131-1",36,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Descending Colon","21047","American Indian or Alaska Native","1002-5",35,4902187,0.8,0.6,1.1,0.1,0.7,0.5,1.0,0.1
+,"Descending Colon","21047","Asian or Pacific Islander","A-PI",262,22739240,1.1,1.0,1.3,0.1,1.2,1.0,1.3,0.1
+,"Descending Colon","21047","Black or African American","2054-5",863,47571210,1.9,1.7,2.0,0.1,1.8,1.7,1.9,0.1
+,"Descending Colon","21047","White","2106-3",4001,256314296,1.2,1.2,1.3,0.0,1.6,1.5,1.6,0.0
+,"Descending Colon","21047","Other Races and Unknown combined","2131-1",80,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sigmoid Colon","21048","American Indian or Alaska Native","1002-5",179,4902187,4.3,3.7,5.0,0.3,3.7,3.1,4.2,0.3
+,"Sigmoid Colon","21048","Asian or Pacific Islander","A-PI",1277,22739240,5.5,5.2,5.8,0.2,5.6,5.3,5.9,0.2
+,"Sigmoid Colon","21048","Black or African American","2054-5",2570,47571210,5.6,5.4,5.8,0.1,5.4,5.2,5.6,0.1
+,"Sigmoid Colon","21048","White","2106-3",18268,256314296,5.7,5.7,5.8,0.0,7.1,7.0,7.2,0.1
+,"Sigmoid Colon","21048","Other Races and Unknown combined","2131-1",371,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Large Intestine, NOS","21049","American Indian or Alaska Native","1002-5",84,4902187,2.1,1.6,2.6,0.2,1.7,1.4,2.1,0.2
+,"Large Intestine, NOS","21049","Asian or Pacific Islander","A-PI",273,22739240,1.2,1.1,1.4,0.1,1.2,1.1,1.4,0.1
+,"Large Intestine, NOS","21049","Black or African American","2054-5",1248,47571210,2.9,2.7,3.1,0.1,2.6,2.5,2.8,0.1
+,"Large Intestine, NOS","21049","White","2106-3",6609,256314296,2.0,1.9,2.0,0.0,2.6,2.5,2.6,0.0
+,"Large Intestine, NOS","21049","Other Races and Unknown combined","2131-1",125,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Rectum and Rectosigmoid Junction","21051-21052","American Indian or Alaska Native","1002-5",375,4902187,8.7,7.8,9.6,0.5,7.6,6.9,8.5,0.4
+,"Rectum and Rectosigmoid Junction","21051-21052","Asian or Pacific Islander","A-PI",2097,22739240,9.0,8.6,9.4,0.2,9.2,8.8,9.6,0.2
+,"Rectum and Rectosigmoid Junction","21051-21052","Black or African American","2054-5",4392,47571210,9.5,9.2,9.8,0.1,9.2,9.0,9.5,0.1
+,"Rectum and Rectosigmoid Junction","21051-21052","White","2106-3",32155,256314296,10.1,10.0,10.2,0.1,12.5,12.4,12.7,0.1
+,"Rectum and Rectosigmoid Junction","21051-21052","Other Races and Unknown combined","2131-1",697,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Rectosigmoid Junction","21051","American Indian or Alaska Native","1002-5",83,4902187,2.0,1.5,2.4,0.2,1.7,1.3,2.1,0.2
+,"Rectosigmoid Junction","21051","Asian or Pacific Islander","A-PI",492,22739240,2.1,1.9,2.3,0.1,2.2,2.0,2.4,0.1
+,"Rectosigmoid Junction","21051","Black or African American","2054-5",917,47571210,2.0,1.9,2.1,0.1,1.9,1.8,2.1,0.1
+,"Rectosigmoid Junction","21051","White","2106-3",7264,256314296,2.3,2.2,2.3,0.0,2.8,2.8,2.9,0.0
+,"Rectosigmoid Junction","21051","Other Races and Unknown combined","2131-1",142,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Rectum","21052","American Indian or Alaska Native","1002-5",292,4902187,6.7,5.9,7.6,0.4,6.0,5.3,6.7,0.3
+,"Rectum","21052","Asian or Pacific Islander","A-PI",1605,22739240,6.8,6.5,7.2,0.2,7.1,6.7,7.4,0.2
+,"Rectum","21052","Black or African American","2054-5",3475,47571210,7.5,7.2,7.8,0.1,7.3,7.1,7.6,0.1
+,"Rectum","21052","White","2106-3",24891,256314296,7.8,7.7,7.9,0.1,9.7,9.6,9.8,0.1
+,"Rectum","21052","Other Races and Unknown combined","2131-1",555,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anus, Anal Canal and Anorectum","21060","American Indian or Alaska Native","1002-5",71,4902187,1.6,1.2,2.1,0.2,1.4,1.1,1.8,0.2
+,"Anus, Anal Canal and Anorectum","21060","Asian or Pacific Islander","A-PI",105,22739240,0.5,0.4,0.6,0.0,0.5,0.4,0.6,0.0
+,"Anus, Anal Canal and Anorectum","21060","Black or African American","2054-5",887,47571210,1.9,1.8,2.0,0.1,1.9,1.7,2.0,0.1
+,"Anus, Anal Canal and Anorectum","21060","White","2106-3",7153,256314296,2.1,2.1,2.2,0.0,2.8,2.7,2.9,0.0
+,"Anus, Anal Canal and Anorectum","21060","Other Races and Unknown combined","2131-1",91,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Liver and Intrahepatic Bile Duct","21071-21072","American Indian or Alaska Native","1002-5",493,4902187,11.2,10.2,12.3,0.5,10.1,9.2,11.0,0.5
+,"Liver and Intrahepatic Bile Duct","21071-21072","Asian or Pacific Islander","A-PI",2344,22739240,10.3,9.9,10.7,0.2,10.3,9.9,10.7,0.2
+,"Liver and Intrahepatic Bile Duct","21071-21072","Black or African American","2054-5",4571,47571210,9.1,8.8,9.4,0.1,9.6,9.3,9.9,0.1
+,"Liver and Intrahepatic Bile Duct","21071-21072","White","2106-3",27883,256314296,7.8,7.7,7.9,0.0,10.9,10.8,11.0,0.1
+,"Liver and Intrahepatic Bile Duct","21071-21072","Other Races and Unknown combined","2131-1",422,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Liver","21071","American Indian or Alaska Native","1002-5",436,4902187,9.9,8.9,10.9,0.5,8.9,8.1,9.8,0.4
+,"Liver","21071","Asian or Pacific Islander","A-PI",1916,22739240,8.4,8.0,8.8,0.2,8.4,8.1,8.8,0.2
+,"Liver","21071","Black or African American","2054-5",3800,47571210,7.5,7.2,7.7,0.1,8.0,7.7,8.2,0.1
+,"Liver","21071","White","2106-3",21822,256314296,6.1,6.0,6.2,0.0,8.5,8.4,8.6,0.1
+,"Liver","21071","Other Races and Unknown combined","2131-1",373,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Intrahepatic Bile Duct","21072","American Indian or Alaska Native","1002-5",57,4902187,1.4,1.0,1.8,0.2,1.2,0.9,1.5,0.2
+,"Intrahepatic Bile Duct","21072","Asian or Pacific Islander","A-PI",428,22739240,1.9,1.7,2.1,0.1,1.9,1.7,2.1,0.1
+,"Intrahepatic Bile Duct","21072","Black or African American","2054-5",771,47571210,1.6,1.5,1.8,0.1,1.6,1.5,1.7,0.1
+,"Intrahepatic Bile Duct","21072","White","2106-3",6061,256314296,1.8,1.7,1.8,0.0,2.4,2.3,2.4,0.0
+,"Intrahepatic Bile Duct","21072","Other Races and Unknown combined","2131-1",49,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Gallbladder","21080","American Indian or Alaska Native","1002-5",52,4902187,1.2,0.9,1.6,0.2,1.1,0.8,1.4,0.1
+,"Gallbladder","21080","Asian or Pacific Islander","A-PI",247,22739240,1.1,1.0,1.3,0.1,1.1,1.0,1.2,0.1
+,"Gallbladder","21080","Black or African American","2054-5",730,47571210,1.6,1.5,1.8,0.1,1.5,1.4,1.7,0.1
+,"Gallbladder","21080","White","2106-3",3170,256314296,0.9,0.9,1.0,0.0,1.2,1.2,1.3,0.0
+,"Gallbladder","21080","Other Races and Unknown combined","2131-1",51,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Biliary","21090","American Indian or Alaska Native","1002-5",58,4902187,1.4,1.1,1.8,0.2,1.2,0.9,1.5,0.2
+,"Other Biliary","21090","Asian or Pacific Islander","A-PI",474,22739240,2.2,2.0,2.4,0.1,2.1,1.9,2.3,0.1
+,"Other Biliary","21090","Black or African American","2054-5",684,47571210,1.5,1.4,1.7,0.1,1.4,1.3,1.5,0.1
+,"Other Biliary","21090","White","2106-3",5434,256314296,1.6,1.6,1.6,0.0,2.1,2.1,2.2,0.0
+,"Other Biliary","21090","Other Races and Unknown combined","2131-1",72,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pancreas","21100","American Indian or Alaska Native","1002-5",425,4902187,10.9,9.9,12.1,0.6,8.7,7.9,9.5,0.4
+,"Pancreas","21100","Asian or Pacific Islander","A-PI",2142,22739240,9.7,9.3,10.1,0.2,9.4,9.0,9.8,0.2
+,"Pancreas","21100","Black or African American","2054-5",7155,47571210,15.9,15.5,16.3,0.2,15.0,14.7,15.4,0.2
+,"Pancreas","21100","White","2106-3",46000,256314296,13.4,13.2,13.5,0.1,17.9,17.8,18.1,0.1
+,"Pancreas","21100","Other Races and Unknown combined","2131-1",449,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Retroperitoneum","21110","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Retroperitoneum","21110","Asian or Pacific Islander","A-PI",65,22739240,0.3,0.2,0.4,0.0,0.3,0.2,0.4,0.0
+,"Retroperitoneum","21110","Black or African American","2054-5",187,47571210,0.4,0.3,0.5,0.0,0.4,0.3,0.5,0.0
+,"Retroperitoneum","21110","White","2106-3",1365,256314296,0.4,0.4,0.5,0.0,0.5,0.5,0.6,0.0
+,"Retroperitoneum","21110","Other Races and Unknown combined","2131-1",33,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Peritoneum, Omentum and Mesentery","21120","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Peritoneum, Omentum and Mesentery","21120","Asian or Pacific Islander","A-PI",65,22739240,0.3,0.2,0.4,0.0,0.3,0.2,0.4,0.0
+,"Peritoneum, Omentum and Mesentery","21120","Black or African American","2054-5",157,47571210,0.4,0.3,0.4,0.0,0.3,0.3,0.4,0.0
+,"Peritoneum, Omentum and Mesentery","21120","White","2106-3",1557,256314296,0.5,0.4,0.5,0.0,0.6,0.6,0.6,0.0
+,"Peritoneum, Omentum and Mesentery","21120","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Digestive Organs","21130","American Indian or Alaska Native","1002-5",28,4902187,0.9,0.6,1.3,0.2,0.6,0.4,0.8,0.1
+,"Other Digestive Organs","21130","Asian or Pacific Islander","A-PI",116,22739240,0.5,0.4,0.6,0.1,0.5,0.4,0.6,0.0
+,"Other Digestive Organs","21130","Black or African American","2054-5",418,47571210,1.0,0.9,1.1,0.0,0.9,0.8,1.0,0.0
+,"Other Digestive Organs","21130","White","2106-3",2341,256314296,0.7,0.7,0.7,0.0,0.9,0.9,1.0,0.0
+,"Other Digestive Organs","21130","Other Races and Unknown combined","2131-1",30,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Respiratory System","22010-22060","American Indian or Alaska Native","1002-5",1585,4902187,40.3,38.2,42.4,1.1,32.3,30.8,34.0,0.8
+,"Respiratory System","22010-22060","Asian or Pacific Islander","A-PI",6962,22739240,31.1,30.4,31.9,0.4,30.6,29.9,31.3,0.4
+,"Respiratory System","22010-22060","Black or African American","2054-5",24587,47571210,53.4,52.7,54.1,0.4,51.7,51.0,52.3,0.3
+,"Respiratory System","22010-22060","White","2106-3",192332,256314296,54.6,54.3,54.8,0.1,75.0,74.7,75.4,0.2
+,"Respiratory System","22010-22060","Other Races and Unknown combined","2131-1",1443,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nose, Nasal Cavity and Middle Ear","22010","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Nose, Nasal Cavity and Middle Ear","22010","Asian or Pacific Islander","A-PI",126,22739240,0.5,0.4,0.6,0.0,0.6,0.5,0.7,0.0
+,"Nose, Nasal Cavity and Middle Ear","22010","Black or African American","2054-5",290,47571210,0.6,0.6,0.7,0.0,0.6,0.5,0.7,0.0
+,"Nose, Nasal Cavity and Middle Ear","22010","White","2106-3",2151,256314296,0.7,0.6,0.7,0.0,0.8,0.8,0.9,0.0
+,"Nose, Nasal Cavity and Middle Ear","22010","Other Races and Unknown combined","2131-1",45,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Larynx","22020","American Indian or Alaska Native","1002-5",89,4902187,2.3,1.8,2.8,0.3,1.8,1.5,2.2,0.2
+,"Larynx","22020","Asian or Pacific Islander","A-PI",199,22739240,0.9,0.8,1.0,0.1,0.9,0.8,1.0,0.1
+,"Larynx","22020","Black or African American","2054-5",1698,47571210,3.5,3.3,3.7,0.1,3.6,3.4,3.7,0.1
+,"Larynx","22020","White","2106-3",9681,256314296,2.7,2.7,2.8,0.0,3.8,3.7,3.9,0.0
+,"Larynx","22020","Other Races and Unknown combined","2131-1",150,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lung and Bronchus","22030","American Indian or Alaska Native","1002-5",1477,4902187,37.6,35.6,39.6,1.0,30.1,28.6,31.7,0.8
+,"Lung and Bronchus","22030","Asian or Pacific Islander","A-PI",6601,22739240,29.5,28.8,30.3,0.4,29.0,28.3,29.7,0.4
+,"Lung and Bronchus","22030","Black or African American","2054-5",22515,47571210,49.1,48.4,49.8,0.3,47.3,46.7,48.0,0.3
+,"Lung and Bronchus","22030","White","2106-3",179925,256314296,51.0,50.7,51.2,0.1,70.2,69.9,70.5,0.2
+,"Lung and Bronchus","22030","Other Races and Unknown combined","2131-1",1239,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pleura","22050","American Indian or Alaska Native","1002-5",0,4902187,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Pleura","22050","Asian or Pacific Islander","A-PI",Suppressed,22739240,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Pleura","22050","Black or African American","2054-5",Suppressed,47571210,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Pleura","22050","White","2106-3",97,256314296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Pleura","22050","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Asian or Pacific Islander","A-PI",33,22739240,0.1,0.1,0.2,0.0,0.1,0.1,0.2,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Black or African American","2054-5",71,47571210,0.2,0.1,0.2,0.0,0.1,0.1,0.2,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","White","2106-3",478,256314296,0.2,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bones and Joints","23000","American Indian or Alaska Native","1002-5",34,4902187,0.7,0.5,1.0,0.1,0.7,0.5,1.0,0.1
+,"Bones and Joints","23000","Asian or Pacific Islander","A-PI",168,22739240,0.8,0.6,0.9,0.1,0.7,0.6,0.9,0.1
+,"Bones and Joints","23000","Black or African American","2054-5",400,47571210,0.8,0.8,0.9,0.0,0.8,0.8,0.9,0.0
+,"Bones and Joints","23000","White","2106-3",2780,256314296,1.0,1.0,1.0,0.0,1.1,1.0,1.1,0.0
+,"Bones and Joints","23000","Other Races and Unknown combined","2131-1",80,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Soft Tissue including Heart","24000","American Indian or Alaska Native","1002-5",97,4902187,2.2,1.7,2.7,0.2,2.0,1.6,2.4,0.2
+,"Soft Tissue including Heart","24000","Asian or Pacific Islander","A-PI",538,22739240,2.3,2.1,2.6,0.1,2.4,2.2,2.6,0.1
+,"Soft Tissue including Heart","24000","Black or African American","2054-5",1422,47571210,3.1,2.9,3.3,0.1,3.0,2.8,3.1,0.1
+,"Soft Tissue including Heart","24000","White","2106-3",9601,256314296,3.2,3.1,3.2,0.0,3.7,3.7,3.8,0.0
+,"Soft Tissue including Heart","24000","Other Races and Unknown combined","2131-1",213,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Skin excluding Basal and Squamous","25010-25020","American Indian or Alaska Native","1002-5",296,4902187,7.2,6.3,8.1,0.4,6.0,5.4,6.8,0.4
+,"Skin excluding Basal and Squamous","25010-25020","Asian or Pacific Islander","A-PI",413,22739240,1.8,1.6,2.0,0.1,1.8,1.6,2.0,0.1
+,"Skin excluding Basal and Squamous","25010-25020","Black or African American","2054-5",744,47571210,1.7,1.6,1.8,0.1,1.6,1.5,1.7,0.1
+,"Skin excluding Basal and Squamous","25010-25020","White","2106-3",83121,256314296,25.8,25.6,26.0,0.1,32.4,32.2,32.7,0.1
+,"Skin excluding Basal and Squamous","25010-25020","Other Races and Unknown combined","2131-1",4181,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Melanoma of the Skin","25010","American Indian or Alaska Native","1002-5",259,4902187,6.3,5.5,7.1,0.4,5.3,4.7,6.0,0.3
+,"Melanoma of the Skin","25010","Asian or Pacific Islander","A-PI",280,22739240,1.2,1.1,1.4,0.1,1.2,1.1,1.4,0.1
+,"Melanoma of the Skin","25010","Black or African American","2054-5",378,47571210,0.9,0.8,1.0,0.0,0.8,0.7,0.9,0.0
+,"Melanoma of the Skin","25010","White","2106-3",77510,256314296,24.1,23.9,24.3,0.1,30.2,30.0,30.5,0.1
+,"Melanoma of the Skin","25010","Other Races and Unknown combined","2131-1",3957,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Non-Epithelial Skin","25020","American Indian or Alaska Native","1002-5",37,4902187,0.9,0.6,1.3,0.2,0.8,0.5,1.0,0.1
+,"Other Non-Epithelial Skin","25020","Asian or Pacific Islander","A-PI",133,22739240,0.6,0.5,0.7,0.1,0.6,0.5,0.7,0.1
+,"Other Non-Epithelial Skin","25020","Black or African American","2054-5",366,47571210,0.8,0.7,0.9,0.0,0.8,0.7,0.9,0.0
+,"Other Non-Epithelial Skin","25020","White","2106-3",5611,256314296,1.7,1.7,1.8,0.0,2.2,2.1,2.2,0.0
+,"Other Non-Epithelial Skin","25020","Other Races and Unknown combined","2131-1",224,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male and Female Breast","26000","American Indian or Alaska Native","1002-5",1583,4902187,37.3,35.4,39.2,1.0,32.3,30.7,33.9,0.8
+,"Male and Female Breast","26000","Asian or Pacific Islander","A-PI",12237,22739240,51.9,51.0,52.9,0.5,53.8,52.9,54.8,0.5
+,"Male and Female Breast","26000","Black or African American","2054-5",31044,47571210,67.6,66.9,68.4,0.4,65.3,64.5,66.0,0.4
+,"Male and Female Breast","26000","White","2106-3",205961,256314296,64.3,64.0,64.6,0.1,80.4,80.0,80.7,0.2
+,"Male and Female Breast","26000","Other Races and Unknown combined","2131-1",3208,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Female Breast","26000-Female","American Indian or Alaska Native","1002-5",1568,2435551,71.1,67.6,74.8,1.8,64.4,61.2,67.6,1.6
+,"Female Breast","26000-Female","Asian or Pacific Islander","A-PI",12196,11743293,96.0,94.3,97.7,0.9,103.9,102.0,105.7,0.9
+,"Female Breast","26000-Female","Black or African American","2054-5",30715,24628574,120.6,119.2,122.0,0.7,124.7,123.3,126.1,0.7
+,"Female Breast","26000-Female","White","2106-3",204189,128501341,123.3,122.7,123.8,0.3,158.9,158.2,159.6,0.4
+,"Female Breast","26000-Female","Other Races and Unknown combined","2131-1",3183,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast","26000-Male","American Indian or Alaska Native","1002-5",Suppressed,2466636,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Male Breast","26000-Male","Asian or Pacific Islander","A-PI",41,10995947,0.4,0.3,0.6,0.1,0.4,0.3,0.5,0.1
+,"Male Breast","26000-Male","Black or African American","2054-5",329,22942636,1.7,1.5,1.9,0.1,1.4,1.3,1.6,0.1
+,"Male Breast","26000-Male","White","2106-3",1772,127812955,1.1,1.1,1.2,0.0,1.4,1.3,1.5,0.0
+,"Male Breast","26000-Male","Other Races and Unknown combined","2131-1",25,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Female Genital System","27010-27070","American Indian or Alaska Native","1002-5",825,2435551,36.7,34.1,39.3,1.3,33.9,31.6,36.3,1.2
+,"Female Genital System","27010-27070","Asian or Pacific Islander","A-PI",4892,11743293,38.1,37.0,39.2,0.6,41.7,40.5,42.8,0.6
+,"Female Genital System","27010-27070","Black or African American","2054-5",12576,24628574,47.6,46.8,48.5,0.4,51.1,50.2,52.0,0.5
+,"Female Genital System","27010-27070","White","2106-3",81501,128501341,48.7,48.3,49.0,0.2,63.4,63.0,63.9,0.2
+,"Female Genital System","27010-27070","Other Races and Unknown combined","2131-1",1548,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cervix Uteri","27010","American Indian or Alaska Native","1002-5",138,2435551,6.3,5.3,7.5,0.5,5.7,4.8,6.7,0.5
+,"Cervix Uteri","27010","Asian or Pacific Islander","A-PI",721,11743293,5.7,5.3,6.2,0.2,6.1,5.7,6.6,0.2
+,"Cervix Uteri","27010","Black or African American","2054-5",1816,24628574,7.4,7.1,7.8,0.2,7.4,7.0,7.7,0.2
+,"Cervix Uteri","27010","White","2106-3",9361,128501341,7.0,6.9,7.2,0.1,7.3,7.1,7.4,0.1
+,"Cervix Uteri","27010","Other Races and Unknown combined","2131-1",311,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Corpus Uteri","27020","American Indian or Alaska Native","1002-5",408,2435551,17.8,16.1,19.6,0.9,16.8,15.2,18.5,0.8
+,"Corpus Uteri","27020","Asian or Pacific Islander","A-PI",2601,11743293,19.9,19.1,20.7,0.4,22.1,21.3,23.0,0.4
+,"Corpus Uteri","27020","Black or African American","2054-5",7105,24628574,25.9,25.3,26.6,0.3,28.8,28.2,29.5,0.3
+,"Corpus Uteri","27020","White","2106-3",44640,128501341,25.4,25.2,25.7,0.1,34.7,34.4,35.1,0.2
+,"Corpus Uteri","27020","Other Races and Unknown combined","2131-1",818,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Uterus, NOS","27030","American Indian or Alaska Native","1002-5",16,2435551,0.7,0.4,1.2,0.2,0.7,0.4,1.1,0.2
+,"Uterus, NOS","27030","Asian or Pacific Islander","A-PI",106,11743293,0.8,0.7,1.0,0.1,0.9,0.7,1.1,0.1
+,"Uterus, NOS","27030","Black or African American","2054-5",461,24628574,1.7,1.6,1.9,0.1,1.9,1.7,2.1,0.1
+,"Uterus, NOS","27030","White","2106-3",1414,128501341,0.8,0.8,0.9,0.0,1.1,1.0,1.2,0.0
+,"Uterus, NOS","27030","Other Races and Unknown combined","2131-1",32,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ovary","27040","American Indian or Alaska Native","1002-5",186,2435551,8.3,7.1,9.6,0.6,7.6,6.6,8.8,0.6
+,"Ovary","27040","Asian or Pacific Islander","A-PI",1119,11743293,8.8,8.3,9.4,0.3,9.5,9.0,10.1,0.3
+,"Ovary","27040","Black or African American","2054-5",2097,24628574,8.2,7.8,8.5,0.2,8.5,8.2,8.9,0.2
+,"Ovary","27040","White","2106-3",16205,128501341,9.8,9.6,10.0,0.1,12.6,12.4,12.8,0.1
+,"Ovary","27040","Other Races and Unknown combined","2131-1",250,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Vagina","27050","American Indian or Alaska Native","1002-5",Suppressed,2435551,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Vagina","27050","Asian or Pacific Islander","A-PI",47,11743293,0.4,0.3,0.5,0.1,0.4,0.3,0.5,0.1
+,"Vagina","27050","Black or African American","2054-5",199,24628574,0.8,0.7,0.9,0.1,0.8,0.7,0.9,0.1
+,"Vagina","27050","White","2106-3",1096,128501341,0.6,0.6,0.7,0.0,0.9,0.8,0.9,0.0
+,"Vagina","27050","Other Races and Unknown combined","2131-1",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Vulva","27060","American Indian or Alaska Native","1002-5",35,2435551,1.7,1.1,2.3,0.3,1.4,1.0,2.0,0.2
+,"Vulva","27060","Asian or Pacific Islander","A-PI",99,11743293,0.8,0.7,1.0,0.1,0.8,0.7,1.0,0.1
+,"Vulva","27060","Black or African American","2054-5",439,24628574,1.8,1.6,2.0,0.1,1.8,1.6,2.0,0.1
+,"Vulva","27060","White","2106-3",4993,128501341,2.9,2.8,3.0,0.0,3.9,3.8,4.0,0.1
+,"Vulva","27060","Other Races and Unknown combined","2131-1",70,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Female Genital Organs","27070","American Indian or Alaska Native","1002-5",28,2435551,1.2,0.8,1.7,0.2,1.1,0.8,1.7,0.2
+,"Other Female Genital Organs","27070","Asian or Pacific Islander","A-PI",199,11743293,1.6,1.4,1.8,0.1,1.7,1.5,1.9,0.1
+,"Other Female Genital Organs","27070","Black or African American","2054-5",459,24628574,1.8,1.6,2.0,0.1,1.9,1.7,2.0,0.1
+,"Other Female Genital Organs","27070","White","2106-3",3792,128501341,2.1,2.1,2.2,0.0,3.0,2.9,3.0,0.0
+,"Other Female Genital Organs","27070","Other Races and Unknown combined","2131-1",50,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Genital System","28010-28040","American Indian or Alaska Native","1002-5",1186,2466636,59.4,55.8,63.2,1.9,48.1,45.4,50.9,1.4
+,"Male Genital System","28010-28040","Asian or Pacific Islander","A-PI",5895,10995947,56.4,55.0,57.9,0.8,53.6,52.3,55.0,0.7
+,"Male Genital System","28010-28040","Black or African American","2054-5",35679,22942636,164.4,162.6,166.3,0.9,155.5,153.9,157.1,0.8
+,"Male Genital System","28010-28040","White","2106-3",180020,127812955,106.1,105.6,106.6,0.3,140.8,140.2,141.5,0.3
+,"Male Genital System","28010-28040","Other Races and Unknown combined","2131-1",7145,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Prostate","28010","American Indian or Alaska Native","1002-5",1072,2466636,54.6,51.1,58.2,1.8,43.5,40.9,46.1,1.3
+,"Prostate","28010","Asian or Pacific Islander","A-PI",5552,10995947,53.5,52.0,54.9,0.7,50.5,49.2,51.8,0.7
+,"Prostate","28010","Black or African American","2054-5",35123,22942636,161.8,160.0,163.6,0.9,153.1,151.5,154.7,0.8
+,"Prostate","28010","White","2106-3",170350,127812955,98.4,97.9,98.8,0.2,133.3,132.6,133.9,0.3
+,"Prostate","28010","Other Races and Unknown combined","2131-1",6769,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Testis","28020","American Indian or Alaska Native","1002-5",91,2466636,3.5,2.8,4.3,0.4,3.7,3.0,4.5,0.4
+,"Testis","28020","Asian or Pacific Islander","A-PI",283,10995947,2.4,2.1,2.7,0.1,2.6,2.3,2.9,0.2
+,"Testis","28020","Black or African American","2054-5",348,22942636,1.5,1.4,1.7,0.1,1.5,1.4,1.7,0.1
+,"Testis","28020","White","2106-3",8115,127812955,6.7,6.5,6.8,0.1,6.3,6.2,6.5,0.1
+,"Testis","28020","Other Races and Unknown combined","2131-1",324,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Penis","28030","American Indian or Alaska Native","1002-5",22,2466636,1.3,0.8,2.0,0.3,0.9,0.6,1.4,0.2
+,"Penis","28030","Asian or Pacific Islander","A-PI",39,10995947,0.4,0.3,0.5,0.1,0.4,0.3,0.5,0.1
+,"Penis","28030","Black or African American","2054-5",155,22942636,0.8,0.7,1.0,0.1,0.7,0.6,0.8,0.1
+,"Penis","28030","White","2106-3",1232,127812955,0.8,0.8,0.9,0.0,1.0,0.9,1.0,0.0
+,"Penis","28030","Other Races and Unknown combined","2131-1",41,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Male Genital Organs","28040","American Indian or Alaska Native","1002-5",Suppressed,2466636,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other Male Genital Organs","28040","Asian or Pacific Islander","A-PI",21,10995947,0.2,0.1,0.3,0.0,0.2,0.1,0.3,0.0
+,"Other Male Genital Organs","28040","Black or African American","2054-5",53,22942636,0.3,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Other Male Genital Organs","28040","White","2106-3",323,127812955,0.2,0.2,0.2,0.0,0.3,0.2,0.3,0.0
+,"Other Male Genital Organs","28040","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Urinary System","29010-29040","American Indian or Alaska Native","1002-5",1074,4902187,25.7,24.1,27.4,0.8,21.9,20.6,23.3,0.7
+,"Urinary System","29010-29040","Asian or Pacific Islander","A-PI",3573,22739240,16.0,15.5,16.6,0.3,15.7,15.2,16.2,0.3
+,"Urinary System","29010-29040","Black or African American","2054-5",12927,47571210,28.5,28.0,29.0,0.3,27.2,26.7,27.6,0.2
+,"Urinary System","29010-29040","White","2106-3",126105,256314296,37.3,37.1,37.5,0.1,49.2,48.9,49.5,0.1
+,"Urinary System","29010-29040","Other Races and Unknown combined","2131-1",2100,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Urinary Bladder, invasive and in situ","29010","American Indian or Alaska Native","1002-5",315,4902187,8.2,7.3,9.2,0.5,6.4,5.7,7.2,0.4
+,"Urinary Bladder, invasive and in situ","29010","Asian or Pacific Islander","A-PI",1681,22739240,7.8,7.4,8.2,0.2,7.4,7.0,7.8,0.2
+,"Urinary Bladder, invasive and in situ","29010","Black or African American","2054-5",4607,47571210,10.7,10.4,11.0,0.2,9.7,9.4,10.0,0.1
+,"Urinary Bladder, invasive and in situ","29010","White","2106-3",67214,256314296,19.5,19.4,19.7,0.1,26.2,26.0,26.4,0.1
+,"Urinary Bladder, invasive and in situ","29010","Other Races and Unknown combined","2131-1",1136,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kidney and Renal Pelvis","29020","American Indian or Alaska Native","1002-5",738,4902187,16.9,15.7,18.2,0.6,15.1,14.0,16.2,0.6
+,"Kidney and Renal Pelvis","29020","Asian or Pacific Islander","A-PI",1758,22739240,7.6,7.2,8.0,0.2,7.7,7.4,8.1,0.2
+,"Kidney and Renal Pelvis","29020","Black or African American","2054-5",8048,47571210,17.1,16.7,17.5,0.2,16.9,16.6,17.3,0.2
+,"Kidney and Renal Pelvis","29020","White","2106-3",55514,256314296,16.8,16.7,17.0,0.1,21.7,21.5,21.8,0.1
+,"Kidney and Renal Pelvis","29020","Other Races and Unknown combined","2131-1",932,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ureter","29030","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Ureter","29030","Asian or Pacific Islander","A-PI",95,22739240,0.4,0.4,0.5,0.0,0.4,0.3,0.5,0.0
+,"Ureter","29030","Black or African American","2054-5",110,47571210,0.3,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Ureter","29030","White","2106-3",1985,256314296,0.6,0.6,0.6,0.0,0.8,0.7,0.8,0.0
+,"Ureter","29030","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Urinary Organs","29040","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other Urinary Organs","29040","Asian or Pacific Islander","A-PI",39,22739240,0.2,0.1,0.2,0.0,0.2,0.1,0.2,0.0
+,"Other Urinary Organs","29040","Black or African American","2054-5",162,47571210,0.4,0.3,0.4,0.0,0.3,0.3,0.4,0.0
+,"Other Urinary Organs","29040","White","2106-3",1392,256314296,0.4,0.4,0.4,0.0,0.5,0.5,0.6,0.0
+,"Other Urinary Organs","29040","Other Races and Unknown combined","2131-1",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Eye and Orbit","30000","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Eye and Orbit","30000","Asian or Pacific Islander","A-PI",54,22739240,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Eye and Orbit","30000","Black or African American","2054-5",108,47571210,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Eye and Orbit","30000","White","2106-3",2817,256314296,0.9,0.9,0.9,0.0,1.1,1.1,1.1,0.0
+,"Eye and Orbit","30000","Other Races and Unknown combined","2131-1",66,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Brain and Other Nervous System","31010-31040","American Indian or Alaska Native","1002-5",138,4902187,3.4,2.8,4.0,0.3,2.8,2.4,3.3,0.2
+,"Brain and Other Nervous System","31010-31040","Asian or Pacific Islander","A-PI",891,22739240,3.9,3.7,4.2,0.1,3.9,3.7,4.2,0.1
+,"Brain and Other Nervous System","31010-31040","Black or African American","2054-5",1846,47571210,3.9,3.7,4.1,0.1,3.9,3.7,4.1,0.1
+,"Brain and Other Nervous System","31010-31040","White","2106-3",20502,256314296,6.8,6.7,6.9,0.0,8.0,7.9,8.1,0.1
+,"Brain and Other Nervous System","31010-31040","Other Races and Unknown combined","2131-1",316,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Brain","31010","American Indian or Alaska Native","1002-5",133,4902187,3.3,2.7,3.9,0.3,2.7,2.3,3.2,0.2
+,"Brain","31010","Asian or Pacific Islander","A-PI",841,22739240,3.7,3.5,4.0,0.1,3.7,3.5,4.0,0.1
+,"Brain","31010","Black or African American","2054-5",1713,47571210,3.6,3.4,3.8,0.1,3.6,3.4,3.8,0.1
+,"Brain","31010","White","2106-3",19589,256314296,6.4,6.3,6.5,0.0,7.6,7.5,7.8,0.1
+,"Brain","31010","Other Races and Unknown combined","2131-1",295,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cranial Nerves Other Nervous System","31040","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Cranial Nerves Other Nervous System","31040","Asian or Pacific Islander","A-PI",50,22739240,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Cranial Nerves Other Nervous System","31040","Black or African American","2054-5",133,47571210,0.3,0.2,0.3,0.0,0.3,0.2,0.3,0.0
+,"Cranial Nerves Other Nervous System","31040","White","2106-3",913,256314296,0.3,0.3,0.4,0.0,0.4,0.3,0.4,0.0
+,"Cranial Nerves Other Nervous System","31040","Other Races and Unknown combined","2131-1",21,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Endocrine System","32010-32020","American Indian or Alaska Native","1002-5",344,4902187,7.7,6.9,8.6,0.4,7.0,6.3,7.8,0.4
+,"Endocrine System","32010-32020","Asian or Pacific Islander","A-PI",3102,22739240,13.0,12.6,13.5,0.2,13.6,13.2,14.1,0.2
+,"Endocrine System","32010-32020","Black or African American","2054-5",3730,47571210,8.0,7.8,8.3,0.1,7.8,7.6,8.1,0.1
+,"Endocrine System","32010-32020","White","2106-3",36218,256314296,13.0,12.8,13.1,0.1,14.1,14.0,14.3,0.1
+,"Endocrine System","32010-32020","Other Races and Unknown combined","2131-1",1135,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Thyroid","32010","American Indian or Alaska Native","1002-5",326,4902187,7.4,6.6,8.2,0.4,6.7,5.9,7.4,0.4
+,"Thyroid","32010","Asian or Pacific Islander","A-PI",2858,22739240,12.0,11.5,12.4,0.2,12.6,12.1,13.0,0.2
+,"Thyroid","32010","Black or African American","2054-5",3210,47571210,7.0,6.7,7.2,0.1,6.7,6.5,7.0,0.1
+,"Thyroid","32010","White","2106-3",33819,256314296,12.2,12.0,12.3,0.1,13.2,13.1,13.3,0.1
+,"Thyroid","32010","Other Races and Unknown combined","2131-1",1066,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Endocrine including Thymus","32020","American Indian or Alaska Native","1002-5",18,4902187,0.4,0.2,0.6,0.1,0.4,0.2,0.6,0.1
+,"Other Endocrine including Thymus","32020","Asian or Pacific Islander","A-PI",244,22739240,1.1,0.9,1.2,0.1,1.1,0.9,1.2,0.1
+,"Other Endocrine including Thymus","32020","Black or African American","2054-5",520,47571210,1.1,1.0,1.2,0.0,1.1,1.0,1.2,0.0
+,"Other Endocrine including Thymus","32020","White","2106-3",2399,256314296,0.8,0.8,0.9,0.0,0.9,0.9,1.0,0.0
+,"Other Endocrine including Thymus","32020","Other Races and Unknown combined","2131-1",69,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lymphomas","33011-33042","American Indian or Alaska Native","1002-5",468,4902187,11.4,10.4,12.5,0.6,9.5,8.7,10.5,0.4
+,"Lymphomas","33011-33042","Asian or Pacific Islander","A-PI",3179,22739240,14.0,13.5,14.5,0.3,14.0,13.5,14.5,0.2
+,"Lymphomas","33011-33042","Black or African American","2054-5",6895,47571210,15.1,14.7,15.4,0.2,14.5,14.2,14.8,0.2
+,"Lymphomas","33011-33042","White","2106-3",68072,256314296,21.1,20.9,21.3,0.1,26.6,26.4,26.8,0.1
+,"Lymphomas","33011-33042","Other Races and Unknown combined","2131-1",1411,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hodgkin Lymphoma","33011-33012","American Indian or Alaska Native","1002-5",52,4902187,1.1,0.8,1.4,0.2,1.1,0.8,1.4,0.1
+,"Hodgkin Lymphoma","33011-33012","Asian or Pacific Islander","A-PI",295,22739240,1.3,1.1,1.4,0.1,1.3,1.2,1.5,0.1
+,"Hodgkin Lymphoma","33011-33012","Black or African American","2054-5",1141,47571210,2.4,2.3,2.5,0.1,2.4,2.3,2.5,0.1
+,"Hodgkin Lymphoma","33011-33012","White","2106-3",6674,256314296,2.5,2.4,2.6,0.0,2.6,2.5,2.7,0.0
+,"Hodgkin Lymphoma","33011-33012","Other Races and Unknown combined","2131-1",184,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hodgkin - Nodal","33011","American Indian or Alaska Native","1002-5",52,4902187,1.1,0.8,1.4,0.2,1.1,0.8,1.4,0.1
+,"Hodgkin - Nodal","33011","Asian or Pacific Islander","A-PI",287,22739240,1.2,1.1,1.4,0.1,1.3,1.1,1.4,0.1
+,"Hodgkin - Nodal","33011","Black or African American","2054-5",1128,47571210,2.4,2.2,2.5,0.1,2.4,2.2,2.5,0.1
+,"Hodgkin - Nodal","33011","White","2106-3",6570,256314296,2.5,2.4,2.5,0.0,2.6,2.5,2.6,0.0
+,"Hodgkin - Nodal","33011","Other Races and Unknown combined","2131-1",180,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hodgkin - Extranodal","33012","American Indian or Alaska Native","1002-5",0,4902187,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Hodgkin - Extranodal","33012","Asian or Pacific Islander","A-PI",Suppressed,22739240,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Hodgkin - Extranodal","33012","Black or African American","2054-5",Suppressed,47571210,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Hodgkin - Extranodal","33012","White","2106-3",104,256314296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Hodgkin - Extranodal","33012","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Non-Hodgkin Lymphoma","33041-33042","American Indian or Alaska Native","1002-5",416,4902187,10.3,9.3,11.4,0.5,8.5,7.7,9.3,0.4
+,"Non-Hodgkin Lymphoma","33041-33042","Asian or Pacific Islander","A-PI",2884,22739240,12.7,12.2,13.2,0.2,12.7,12.2,13.2,0.2
+,"Non-Hodgkin Lymphoma","33041-33042","Black or African American","2054-5",5754,47571210,12.7,12.3,13.0,0.2,12.1,11.8,12.4,0.2
+,"Non-Hodgkin Lymphoma","33041-33042","White","2106-3",61398,256314296,18.6,18.5,18.8,0.1,24.0,23.8,24.1,0.1
+,"Non-Hodgkin Lymphoma","33041-33042","Other Races and Unknown combined","2131-1",1227,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"NHL - Nodal","33041","American Indian or Alaska Native","1002-5",279,4902187,6.8,6.0,7.7,0.4,5.7,5.0,6.4,0.3
+,"NHL - Nodal","33041","Asian or Pacific Islander","A-PI",1806,22739240,7.9,7.6,8.3,0.2,7.9,7.6,8.3,0.2
+,"NHL - Nodal","33041","Black or African American","2054-5",3836,47571210,8.5,8.2,8.7,0.1,8.1,7.8,8.3,0.1
+,"NHL - Nodal","33041","White","2106-3",42533,256314296,12.8,12.7,13.0,0.1,16.6,16.4,16.8,0.1
+,"NHL - Nodal","33041","Other Races and Unknown combined","2131-1",716,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"NHL - Extranodal","33042","American Indian or Alaska Native","1002-5",137,4902187,3.5,2.9,4.1,0.3,2.8,2.3,3.3,0.2
+,"NHL - Extranodal","33042","Asian or Pacific Islander","A-PI",1078,22739240,4.7,4.5,5.0,0.1,4.7,4.5,5.0,0.1
+,"NHL - Extranodal","33042","Black or African American","2054-5",1918,47571210,4.2,4.0,4.4,0.1,4.0,3.9,4.2,0.1
+,"NHL - Extranodal","33042","White","2106-3",18865,256314296,5.8,5.7,5.8,0.0,7.4,7.3,7.5,0.1
+,"NHL - Extranodal","33042","Other Races and Unknown combined","2131-1",511,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Myeloma","34000","American Indian or Alaska Native","1002-5",194,4902187,4.7,4.0,5.4,0.4,4.0,3.4,4.6,0.3
+,"Myeloma","34000","Asian or Pacific Islander","A-PI",870,22739240,3.8,3.6,4.1,0.1,3.8,3.6,4.1,0.1
+,"Myeloma","34000","Black or African American","2054-5",6022,47571210,13.5,13.1,13.9,0.2,12.7,12.3,13.0,0.2
+,"Myeloma","34000","White","2106-3",21076,256314296,6.2,6.1,6.2,0.0,8.2,8.1,8.3,0.1
+,"Myeloma","34000","Other Races and Unknown combined","2131-1",372,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Leukemias","35011-35043","American Indian or Alaska Native","1002-5",348,4902187,8.4,7.5,9.3,0.5,7.1,6.4,7.9,0.4
+,"Leukemias","35011-35043","Asian or Pacific Islander","A-PI",1735,22739240,7.8,7.4,8.2,0.2,7.6,7.3,8.0,0.2
+,"Leukemias","35011-35043","Black or African American","2054-5",4606,47571210,10.3,10.0,10.6,0.2,9.7,9.4,10.0,0.1
+,"Leukemias","35011-35043","White","2106-3",46362,256314296,14.5,14.4,14.7,0.1,18.1,17.9,18.3,0.1
+,"Leukemias","35011-35043","Other Races and Unknown combined","2131-1",1046,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Acute Lymphocytic Leukemia","35011","American Indian or Alaska Native","1002-5",62,4902187,1.2,0.9,1.6,0.2,1.3,1.0,1.6,0.2
+,"Acute Lymphocytic Leukemia","35011","Asian or Pacific Islander","A-PI",341,22739240,1.6,1.4,1.8,0.1,1.5,1.3,1.7,0.1
+,"Acute Lymphocytic Leukemia","35011","Black or African American","2054-5",471,47571210,1.0,0.9,1.1,0.0,1.0,0.9,1.1,0.0
+,"Acute Lymphocytic Leukemia","35011","White","2106-3",4482,256314296,1.8,1.8,1.9,0.0,1.7,1.7,1.8,0.0
+,"Acute Lymphocytic Leukemia","35011","Other Races and Unknown combined","2131-1",189,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Chronic Lymphocytic Leukemia","35012","American Indian or Alaska Native","1002-5",77,4902187,1.9,1.5,2.4,0.2,1.6,1.2,2.0,0.2
+,"Chronic Lymphocytic Leukemia","35012","Asian or Pacific Islander","A-PI",275,22739240,1.2,1.0,1.3,0.1,1.2,1.1,1.4,0.1
+,"Chronic Lymphocytic Leukemia","35012","Black or African American","2054-5",1245,47571210,2.8,2.7,3.0,0.1,2.6,2.5,2.8,0.1
+,"Chronic Lymphocytic Leukemia","35012","White","2106-3",16690,256314296,4.8,4.7,4.9,0.0,6.5,6.4,6.6,0.1
+,"Chronic Lymphocytic Leukemia","35012","Other Races and Unknown combined","2131-1",442,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Acute Myeloid Leukemia","35021","American Indian or Alaska Native","1002-5",109,4902187,2.8,2.3,3.4,0.3,2.2,1.8,2.7,0.2
+,"Acute Myeloid Leukemia","35021","Asian or Pacific Islander","A-PI",698,22739240,3.2,2.9,3.4,0.1,3.1,2.8,3.3,0.1
+,"Acute Myeloid Leukemia","35021","Black or African American","2054-5",1555,47571210,3.5,3.3,3.7,0.1,3.3,3.1,3.4,0.1
+,"Acute Myeloid Leukemia","35021","White","2106-3",14093,256314296,4.4,4.3,4.5,0.0,5.5,5.4,5.6,0.0
+,"Acute Myeloid Leukemia","35021","Other Races and Unknown combined","2131-1",149,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Chronic Myeloid Leukemia","35022","American Indian or Alaska Native","1002-5",63,4902187,1.5,1.1,1.9,0.2,1.3,1.0,1.6,0.2
+,"Chronic Myeloid Leukemia","35022","Asian or Pacific Islander","A-PI",256,22739240,1.1,1.0,1.3,0.1,1.1,1.0,1.3,0.1
+,"Chronic Myeloid Leukemia","35022","Black or African American","2054-5",785,47571210,1.7,1.6,1.9,0.1,1.7,1.5,1.8,0.1
+,"Chronic Myeloid Leukemia","35022","White","2106-3",6170,256314296,2.0,1.9,2.0,0.0,2.4,2.3,2.5,0.0
+,"Chronic Myeloid Leukemia","35022","Other Races and Unknown combined","2131-1",158,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Leukemias","35041-35043","American Indian or Alaska Native","1002-5",37,4902187,1.0,0.7,1.4,0.2,0.8,0.5,1.0,0.1
+,"Other Leukemias","35041-35043","Asian or Pacific Islander","A-PI",165,22739240,0.7,0.6,0.9,0.1,0.7,0.6,0.8,0.1
+,"Other Leukemias","35041-35043","Black or African American","2054-5",550,47571210,1.2,1.1,1.3,0.1,1.2,1.1,1.3,0.0
+,"Other Leukemias","35041-35043","White","2106-3",4927,256314296,1.5,1.5,1.6,0.0,1.9,1.9,2.0,0.0
+,"Other Leukemias","35041-35043","Other Races and Unknown combined","2131-1",108,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Lymphocytic Leukemia","35013","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other Lymphocytic Leukemia","35013","Asian or Pacific Islander","A-PI",31,22739240,0.1,0.1,0.2,0.0,0.1,0.1,0.2,0.0
+,"Other Lymphocytic Leukemia","35013","Black or African American","2054-5",92,47571210,0.2,0.2,0.3,0.0,0.2,0.2,0.2,0.0
+,"Other Lymphocytic Leukemia","35013","White","2106-3",1295,256314296,0.4,0.4,0.4,0.0,0.5,0.5,0.5,0.0
+,"Other Lymphocytic Leukemia","35013","Other Races and Unknown combined","2131-1",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Acute Monocytic Leukemia","35031","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Acute Monocytic Leukemia","35031","Asian or Pacific Islander","A-PI",Suppressed,22739240,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Acute Monocytic Leukemia","35031","Black or African American","2054-5",50,47571210,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Acute Monocytic Leukemia","35031","White","2106-3",501,256314296,0.2,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Acute Monocytic Leukemia","35031","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Acute Leukemia","35041","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other Acute Leukemia","35041","Asian or Pacific Islander","A-PI",32,22739240,0.1,0.1,0.2,0.0,0.1,0.1,0.2,0.0
+,"Other Acute Leukemia","35041","Black or African American","2054-5",75,47571210,0.2,0.1,0.2,0.0,0.2,0.1,0.2,0.0
+,"Other Acute Leukemia","35041","White","2106-3",749,256314296,0.2,0.2,0.3,0.0,0.3,0.3,0.3,0.0
+,"Other Acute Leukemia","35041","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Aleukemic, Subleukemic and NOS","35043","American Indian or Alaska Native","1002-5",23,4902187,0.6,0.4,0.9,0.1,0.5,0.3,0.7,0.1
+,"Aleukemic, Subleukemic and NOS","35043","Asian or Pacific Islander","A-PI",66,22739240,0.3,0.2,0.4,0.0,0.3,0.2,0.4,0.0
+,"Aleukemic, Subleukemic and NOS","35043","Black or African American","2054-5",289,47571210,0.7,0.6,0.7,0.0,0.6,0.5,0.7,0.0
+,"Aleukemic, Subleukemic and NOS","35043","White","2106-3",1931,256314296,0.6,0.6,0.6,0.0,0.8,0.7,0.8,0.0
+,"Aleukemic, Subleukemic and NOS","35043","Other Races and Unknown combined","2131-1",59,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Myeloid/Monocytic Leukemia","35023","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other Myeloid/Monocytic Leukemia","35023","Asian or Pacific Islander","A-PI",25,22739240,0.1,0.1,0.2,0.0,0.1,0.1,0.2,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","Black or African American","2054-5",44,47571210,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","White","2106-3",451,256314296,0.1,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Mesothelioma","36010","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Mesothelioma","36010","Asian or Pacific Islander","A-PI",79,22739240,0.4,0.3,0.5,0.0,0.3,0.3,0.4,0.0
+,"Mesothelioma","36010","Black or African American","2054-5",148,47571210,0.4,0.3,0.4,0.0,0.3,0.3,0.4,0.0
+,"Mesothelioma","36010","White","2106-3",2604,256314296,0.8,0.7,0.8,0.0,1.0,1.0,1.1,0.0
+,"Mesothelioma","36010","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kaposi Sarcoma","36020","American Indian or Alaska Native","1002-5",Suppressed,4902187,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Kaposi Sarcoma","36020","Asian or Pacific Islander","A-PI",29,22739240,0.1,0.1,0.2,0.0,0.1,0.1,0.2,0.0
+,"Kaposi Sarcoma","36020","Black or African American","2054-5",303,47571210,0.7,0.6,0.7,0.0,0.6,0.6,0.7,0.0
+,"Kaposi Sarcoma","36020","White","2106-3",593,256314296,0.2,0.2,0.2,0.0,0.2,0.2,0.3,0.0
+,"Kaposi Sarcoma","36020","Other Races and Unknown combined","2131-1",57,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Miscellaneous","37000","American Indian or Alaska Native","1002-5",490,4902187,13.1,11.9,14.4,0.6,10.0,9.1,10.9,0.5
+,"Miscellaneous","37000","Asian or Pacific Islander","A-PI",1966,22739240,9.1,8.7,9.5,0.2,8.6,8.3,9.0,0.2
+,"Miscellaneous","37000","Black or African American","2054-5",6639,47571210,15.3,14.9,15.7,0.2,14.0,13.6,14.3,0.2
+,"Miscellaneous","37000","White","2106-3",55901,256314296,16.8,16.6,16.9,0.1,21.8,21.6,22.0,0.1
+,"Miscellaneous","37000","Other Races and Unknown combined","2131-1",1037,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male and Female Breast, In Situ","Breast-InSitu","American Indian or Alaska Native","1002-5",293,4902187,6.7,5.9,7.5,0.4,6.0,5.3,6.7,0.3
+,"Male and Female Breast, In Situ","Breast-InSitu","Asian or Pacific Islander","A-PI",3494,22739240,14.7,14.2,15.2,0.3,15.4,14.9,15.9,0.3
+,"Male and Female Breast, In Situ","Breast-InSitu","Black or African American","2054-5",7422,47571210,15.7,15.3,16.1,0.2,15.6,15.2,16.0,0.2
+,"Male and Female Breast, In Situ","Breast-InSitu","White","2106-3",41912,256314296,13.2,13.1,13.4,0.1,16.4,16.2,16.5,0.1
+,"Male and Female Breast, In Situ","Breast-InSitu","Other Races and Unknown combined","2131-1",855,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Female Breast, In Situ","Breast-InSitu-Female","American Indian or Alaska Native","1002-5",293,2435551,13.0,11.5,14.6,0.8,12.0,10.7,13.5,0.7
+,"Female Breast, In Situ","Breast-InSitu-Female","Asian or Pacific Islander","A-PI",3485,11743293,27.3,26.4,28.2,0.5,29.7,28.7,30.7,0.5
+,"Female Breast, In Situ","Breast-InSitu-Female","Black or African American","2054-5",7373,24628574,28.3,27.6,28.9,0.3,29.9,29.3,30.6,0.3
+,"Female Breast, In Situ","Breast-InSitu-Female","White","2106-3",41768,128501341,25.9,25.6,26.1,0.1,32.5,32.2,32.8,0.2
+,"Female Breast, In Situ","Breast-InSitu-Female","Other Races and Unknown combined","2131-1",853,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast, In Situ","Breast-InSitu-Male","American Indian or Alaska Native","1002-5",0,2466636,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Male Breast, In Situ","Breast-InSitu-Male","Asian or Pacific Islander","A-PI",Suppressed,10995947,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Male Breast, In Situ","Breast-InSitu-Male","Black or African American","2054-5",49,22942636,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Male Breast, In Situ","Breast-InSitu-Male","White","2106-3",144,127812955,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Male Breast, In Situ","Breast-InSitu-Male","Other Races and Unknown combined","2131-1",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Black or African American","2054-5",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","White","2106-3",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Other Races and Unknown combined","2131-1",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence"
+"Query Parameters:"
+"Year: 2020"
+"Group By: Cancer Sites; Race"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2022.html for more information."
+"---"
+"Query Date: Nov 18, 2026 3:30:20 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2022, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2024 submission; 2025"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2022.html on Nov 18, 2026 3:30:20 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. Statistics are suppressed to protect personal privacy, for the following conditions: <ol><li> Data are suppressed if the"
+"figures represent fewer than 16 cases for the specific category in the table cell. </li><li> Counts and rates are suppressed for"
+"cells at the Metropolitan Statistical Area (MSA) level for the race categories ""American Indian or Alaska Native"" or ""Asian"
+"or Pacific Islander"" when the specific category's population for rate calculations is less than 50,000 persons. </li><li> Data"
+"are suppressed at the state and MSA level for certain race and ethnicity groups: <ul><li> American Indian or Alaska Native data"
+"are suppressed at the state and MSA level for residents of Illinois, Kansas, New Jersey, and New York; </li><li> Hispanic Asian"
+"or Pacific Islander and Hispanic Black or African American data are suppressed at the state and MSA level for all years and for"
+"Non-Hispanic Asian or Pacific Islanders for 1999 for residents of Kansas. </li></ul> </li></ol> States decide whether to"
+"suppress data for specific race and ethnicity categories. The suppression criteria may vary in previous releases of these data"
+"More information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Genital Cancers List."
+"3. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"4. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

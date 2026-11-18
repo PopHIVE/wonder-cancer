@@ -1,0 +1,249 @@
+"Notes","Cancer Sites","Cancer Sites Code","Sex","Sex Code",Count,Population,Age-Adjusted Rate,Age-Adjusted Rate Lower 95% Confidence Interval,Age-Adjusted Rate Upper 95% Confidence Interval,Age-Adjusted Rate Standard Error,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
+,"All Invasive Cancer Sites Combined","0","Female","F",848241,162903023,435.3,434.3,436.2,0.5,520.7,519.6,521.8,0.6
+,"All Invasive Cancer Sites Combined","0","Male","M",865026,158933091,502.8,501.7,503.9,0.6,544.3,543.1,545.4,0.6
+,"Oral Cavity and Pharynx","20010-20100","Female","F",13184,162903023,6.6,6.5,6.8,0.1,8.1,8.0,8.2,0.1
+,"Oral Cavity and Pharynx","20010-20100","Male","M",32850,158933091,18.3,18.1,18.5,0.1,20.7,20.4,20.9,0.1
+,"Lip","20010","Female","F",610,162903023,0.3,0.3,0.3,0.0,0.4,0.3,0.4,0.0
+,"Lip","20010","Male","M",1543,158933091,0.9,0.9,1.0,0.0,1.0,0.9,1.0,0.0
+,"Tongue","20020","Female","F",3931,162903023,2.0,1.9,2.0,0.0,2.4,2.3,2.5,0.0
+,"Tongue","20020","Male","M",10405,158933091,5.7,5.6,5.8,0.1,6.5,6.4,6.7,0.1
+,"Salivary Gland","20030","Female","F",1942,162903023,1.0,1.0,1.1,0.0,1.2,1.1,1.2,0.0
+,"Salivary Gland","20030","Male","M",2850,158933091,1.8,1.7,1.8,0.0,1.8,1.7,1.9,0.0
+,"Floor of Mouth","20040","Female","F",664,162903023,0.3,0.3,0.3,0.0,0.4,0.4,0.4,0.0
+,"Floor of Mouth","20040","Male","M",1366,158933091,0.7,0.7,0.8,0.0,0.9,0.8,0.9,0.0
+,"Gum and Other Mouth","20050","Female","F",2648,162903023,1.3,1.3,1.4,0.0,1.6,1.6,1.7,0.0
+,"Gum and Other Mouth","20050","Male","M",3409,158933091,2.0,1.9,2.0,0.0,2.1,2.1,2.2,0.0
+,"Nasopharynx","20060","Female","F",601,162903023,0.3,0.3,0.4,0.0,0.4,0.3,0.4,0.0
+,"Nasopharynx","20060","Male","M",1355,158933091,0.8,0.7,0.8,0.0,0.9,0.8,0.9,0.0
+,"Tonsil","20070","Female","F",1518,162903023,0.8,0.7,0.8,0.0,0.9,0.9,1.0,0.0
+,"Tonsil","20070","Male","M",7221,158933091,3.8,3.7,3.9,0.0,4.5,4.4,4.6,0.1
+,"Oropharynx","20080","Female","F",491,162903023,0.2,0.2,0.3,0.0,0.3,0.3,0.3,0.0
+,"Oropharynx","20080","Male","M",1755,158933091,0.9,0.9,1.0,0.0,1.1,1.1,1.2,0.0
+,"Hypopharynx","20090","Female","F",500,162903023,0.2,0.2,0.3,0.0,0.3,0.3,0.3,0.0
+,"Hypopharynx","20090","Male","M",1944,158933091,1.1,1.0,1.1,0.0,1.2,1.2,1.3,0.0
+,"Other Oral Cavity and Pharynx","20100","Female","F",279,162903023,0.1,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Oral Cavity and Pharynx","20100","Male","M",1002,158933091,0.6,0.5,0.6,0.0,0.6,0.6,0.7,0.0
+,"Digestive System","21010-21130","Female","F",133627,162903023,66.7,66.3,67.1,0.2,82.0,81.6,82.5,0.2
+,"Digestive System","21010-21130","Male","M",170761,158933091,99.2,98.7,99.7,0.2,107.4,106.9,108.0,0.3
+,"Esophagus","21010","Female","F",3721,162903023,1.8,1.8,1.9,0.0,2.3,2.2,2.4,0.0
+,"Esophagus","21010","Male","M",13973,158933091,8.0,7.8,8.1,0.1,8.8,8.6,8.9,0.1
+,"Stomach","21020","Female","F",9281,162903023,4.7,4.6,4.8,0.1,5.7,5.6,5.8,0.1
+,"Stomach","21020","Male","M",15136,158933091,9.0,8.8,9.1,0.1,9.5,9.4,9.7,0.1
+,"Small Intestine","21030","Female","F",4334,162903023,2.2,2.1,2.3,0.0,2.7,2.6,2.7,0.0
+,"Small Intestine","21030","Male","M",4984,158933091,2.9,2.8,3.0,0.0,3.1,3.0,3.2,0.0
+,"Colon and Rectum","21041-21052","Female","F",68354,162903023,34.5,34.2,34.8,0.1,42.0,41.6,42.3,0.2
+,"Colon and Rectum","21041-21052","Male","M",76327,158933091,45.1,44.7,45.4,0.2,48.0,47.7,48.4,0.2
+,"Colon excluding Rectum","21041-21049","Female","F",51131,162903023,25.7,25.5,25.9,0.1,31.4,31.1,31.7,0.1
+,"Colon excluding Rectum","21041-21049","Male","M",51508,158933091,30.8,30.5,31.1,0.1,32.4,32.1,32.7,0.1
+,"Cecum","21041","Female","F",11301,162903023,5.6,5.5,5.7,0.1,6.9,6.8,7.1,0.1
+,"Cecum","21041","Male","M",9612,158933091,5.8,5.7,6.0,0.1,6.0,5.9,6.2,0.1
+,"Appendix","21042","Female","F",3048,162903023,1.7,1.7,1.8,0.0,1.9,1.8,1.9,0.0
+,"Appendix","21042","Male","M",2471,158933091,1.5,1.4,1.5,0.0,1.6,1.5,1.6,0.0
+,"Ascending Colon","21043","Female","F",10464,162903023,5.2,5.1,5.3,0.1,6.4,6.3,6.5,0.1
+,"Ascending Colon","21043","Male","M",9273,158933091,5.7,5.5,5.8,0.1,5.8,5.7,6.0,0.1
+,"Hepatic Flexure","21044","Female","F",2163,162903023,1.1,1.0,1.1,0.0,1.3,1.3,1.4,0.0
+,"Hepatic Flexure","21044","Male","M",2284,158933091,1.4,1.3,1.5,0.0,1.4,1.4,1.5,0.0
+,"Transverse Colon","21045","Female","F",4746,162903023,2.4,2.3,2.4,0.0,2.9,2.8,3.0,0.0
+,"Transverse Colon","21045","Male","M",4625,158933091,2.8,2.7,2.9,0.0,2.9,2.8,3.0,0.0
+,"Splenic Flexure","21046","Female","F",1314,162903023,0.7,0.6,0.7,0.0,0.8,0.8,0.9,0.0
+,"Splenic Flexure","21046","Male","M",1589,158933091,0.9,0.9,1.0,0.0,1.0,1.0,1.1,0.0
+,"Descending Colon","21047","Female","F",2789,162903023,1.4,1.4,1.5,0.0,1.7,1.6,1.8,0.0
+,"Descending Colon","21047","Male","M",3169,158933091,1.9,1.8,1.9,0.0,2.0,1.9,2.1,0.0
+,"Sigmoid Colon","21048","Female","F",10992,162903023,5.6,5.5,5.7,0.1,6.7,6.6,6.9,0.1
+,"Sigmoid Colon","21048","Male","M",14230,158933091,8.2,8.1,8.3,0.1,9.0,8.8,9.1,0.1
+,"Large Intestine, NOS","21049","Female","F",4314,162903023,2.1,2.0,2.1,0.0,2.6,2.6,2.7,0.0
+,"Large Intestine, NOS","21049","Male","M",4255,158933091,2.6,2.5,2.7,0.0,2.7,2.6,2.8,0.0
+,"Rectum and Rectosigmoid Junction","21051-21052","Female","F",17223,162903023,8.8,8.7,9.0,0.1,10.6,10.4,10.7,0.1
+,"Rectum and Rectosigmoid Junction","21051-21052","Male","M",24819,158933091,14.3,14.1,14.5,0.1,15.6,15.4,15.8,0.1
+,"Rectosigmoid Junction","21051","Female","F",4107,162903023,2.1,2.0,2.2,0.0,2.5,2.4,2.6,0.0
+,"Rectosigmoid Junction","21051","Male","M",5650,158933091,3.3,3.2,3.3,0.0,3.6,3.5,3.6,0.0
+,"Rectum","21052","Female","F",13116,162903023,6.7,6.6,6.8,0.1,8.1,7.9,8.2,0.1
+,"Rectum","21052","Male","M",19169,158933091,11.0,10.9,11.2,0.1,12.1,11.9,12.2,0.1
+,"Anus, Anal Canal and Anorectum","21060","Female","F",4699,162903023,2.3,2.3,2.4,0.0,2.9,2.8,3.0,0.0
+,"Anus, Anal Canal and Anorectum","21060","Male","M",2665,158933091,1.5,1.5,1.6,0.0,1.7,1.6,1.7,0.0
+,"Liver and Intrahepatic Bile Duct","21071-21072","Female","F",9782,162903023,4.8,4.7,4.9,0.0,6.0,5.9,6.1,0.1
+,"Liver and Intrahepatic Bile Duct","21071-21072","Male","M",24965,158933091,13.4,13.2,13.6,0.1,15.7,15.5,15.9,0.1
+,"Liver","21071","Female","F",7405,162903023,3.6,3.5,3.7,0.0,4.5,4.4,4.7,0.1
+,"Liver","21071","Male","M",22380,158933091,11.9,11.7,12.1,0.1,14.1,13.9,14.3,0.1
+,"Intrahepatic Bile Duct","21072","Female","F",2377,162903023,1.2,1.1,1.2,0.0,1.5,1.4,1.5,0.0
+,"Intrahepatic Bile Duct","21072","Male","M",2585,158933091,1.5,1.4,1.6,0.0,1.6,1.6,1.7,0.0
+,"Gallbladder","21080","Female","F",2780,162903023,1.4,1.3,1.4,0.0,1.7,1.6,1.8,0.0
+,"Gallbladder","21080","Male","M",1337,158933091,0.8,0.8,0.9,0.0,0.8,0.8,0.9,0.0
+,"Other Biliary","21090","Female","F",2883,162903023,1.4,1.4,1.5,0.0,1.8,1.7,1.8,0.0
+,"Other Biliary","21090","Male","M",3624,158933091,2.2,2.1,2.2,0.0,2.3,2.2,2.4,0.0
+,"Pancreas","21100","Female","F",24003,162903023,11.7,11.6,11.9,0.1,14.7,14.5,14.9,0.1
+,"Pancreas","21100","Male","M",25651,158933091,15.1,14.9,15.3,0.1,16.1,15.9,16.3,0.1
+,"Retroperitoneum","21110","Female","F",676,162903023,0.4,0.3,0.4,0.0,0.4,0.4,0.4,0.0
+,"Retroperitoneum","21110","Male","M",697,158933091,0.4,0.4,0.4,0.0,0.4,0.4,0.5,0.0
+,"Peritoneum, Omentum and Mesentery","21120","Female","F",1850,162903023,0.9,0.9,1.0,0.0,1.1,1.1,1.2,0.0
+,"Peritoneum, Omentum and Mesentery","21120","Male","M",160,158933091,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Other Digestive Organs","21130","Female","F",1264,162903023,0.6,0.6,0.7,0.0,0.8,0.7,0.8,0.0
+,"Other Digestive Organs","21130","Male","M",1242,158933091,0.7,0.7,0.8,0.0,0.8,0.7,0.8,0.0
+,"Respiratory System","22010-22060","Female","F",111917,162903023,54.8,54.5,55.1,0.2,68.7,68.3,69.1,0.2
+,"Respiratory System","22010-22060","Male","M",129292,158933091,75.9,75.5,76.3,0.2,81.3,80.9,81.8,0.2
+,"Nose, Nasal Cavity and Middle Ear","22010","Female","F",975,162903023,0.5,0.5,0.5,0.0,0.6,0.6,0.6,0.0
+,"Nose, Nasal Cavity and Middle Ear","22010","Male","M",1491,158933091,0.9,0.8,0.9,0.0,0.9,0.9,1.0,0.0
+,"Larynx","22020","Female","F",2601,162903023,1.3,1.2,1.3,0.0,1.6,1.5,1.7,0.0
+,"Larynx","22020","Male","M",10049,158933091,5.6,5.5,5.7,0.1,6.3,6.2,6.4,0.1
+,"Lung and Bronchus","22030","Female","F",108092,162903023,52.9,52.6,53.2,0.2,66.4,66.0,66.8,0.2
+,"Lung and Bronchus","22030","Male","M",117279,158933091,69.1,68.7,69.5,0.2,73.8,73.4,74.2,0.2
+,"Pleura","22050","Female","F",39,162903023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Pleura","22050","Male","M",67,158933091,0.0,0.0,0.1,0.0,0.0,0.0,0.1,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Female","F",210,162903023,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Trachea, Mediastinum and Other Respiratory Organs","22060","Male","M",406,158933091,0.2,0.2,0.3,0.0,0.3,0.2,0.3,0.0
+,"Bones and Joints","23000","Female","F",1396,162903023,0.8,0.8,0.9,0.0,0.9,0.8,0.9,0.0
+,"Bones and Joints","23000","Male","M",1873,158933091,1.2,1.1,1.2,0.0,1.2,1.1,1.2,0.0
+,"Soft Tissue including Heart","24000","Female","F",5297,162903023,2.9,2.8,3.0,0.0,3.3,3.2,3.3,0.0
+,"Soft Tissue including Heart","24000","Male","M",6574,158933091,4.0,3.9,4.1,0.1,4.1,4.0,4.2,0.1
+,"Skin excluding Basal and Squamous","25010-25020","Female","F",36949,162903023,19.8,19.6,20.0,0.1,22.7,22.5,22.9,0.1
+,"Skin excluding Basal and Squamous","25010-25020","Male","M",52956,158933091,31.9,31.6,32.1,0.1,33.3,33.0,33.6,0.1
+,"Melanoma of the Skin","25010","Female","F",34463,162903023,18.5,18.3,18.7,0.1,21.2,20.9,21.4,0.1
+,"Melanoma of the Skin","25010","Male","M",49143,158933091,29.4,29.2,29.7,0.1,30.9,30.6,31.2,0.1
+,"Other Non-Epithelial Skin","25020","Female","F",2486,162903023,1.3,1.2,1.3,0.0,1.5,1.5,1.6,0.0
+,"Other Non-Epithelial Skin","25020","Male","M",3813,158933091,2.4,2.4,2.5,0.0,2.4,2.3,2.5,0.0
+,"Male and Female Breast","26000","Female","F",248727,162903023,128.9,128.4,129.4,0.3,152.7,152.1,153.3,0.3
+,"Male and Female Breast","26000","Male","M",2227,158933091,1.3,1.3,1.4,0.0,1.4,1.3,1.5,0.0
+,"Female Breast","26000-Female","Female","F",248727,162903023,128.9,128.4,129.4,0.3,152.7,152.1,153.3,0.3
+,"Female Breast","26000-Female","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast","26000-Male","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast","26000-Male","Male","M",2227,158933091,1.3,1.3,1.4,0.0,1.4,1.3,1.5,0.0
+,"Female Genital System","27010-27070","Female","F",100340,162903023,51.4,51.1,51.7,0.2,61.6,61.2,62.0,0.2
+,"Female Genital System","27010-27070","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cervix Uteri","27010","Female","F",13183,162903023,7.8,7.7,8.0,0.1,8.1,8.0,8.2,0.1
+,"Cervix Uteri","27010","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Corpus Uteri","27020","Female","F",53668,162903023,26.5,26.2,26.7,0.1,32.9,32.7,33.2,0.1
+,"Corpus Uteri","27020","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Uterus, NOS","27030","Female","F",1936,162903023,1.0,0.9,1.0,0.0,1.2,1.1,1.2,0.0
+,"Uterus, NOS","27030","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ovary","27040","Female","F",22208,162903023,11.5,11.3,11.6,0.1,13.6,13.5,13.8,0.1
+,"Ovary","27040","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Vagina","27050","Female","F",1284,162903023,0.6,0.6,0.7,0.0,0.8,0.7,0.8,0.0
+,"Vagina","27050","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Vulva","27060","Female","F",5231,162903023,2.6,2.6,2.7,0.0,3.2,3.1,3.3,0.0
+,"Vulva","27060","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Female Genital Organs","27070","Female","F",2830,162903023,1.4,1.4,1.5,0.0,1.7,1.7,1.8,0.0
+,"Other Female Genital Organs","27070","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Genital System","28010-28040","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Genital System","28010-28040","Male","M",208778,158933091,114.2,113.7,114.7,0.3,131.4,130.8,131.9,0.3
+,"Prostate","28010","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Prostate","28010","Male","M",198138,158933091,107.4,106.9,107.9,0.2,124.7,124.1,125.2,0.3
+,"Testis","28020","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Testis","28020","Male","M",8831,158933091,5.7,5.6,5.8,0.1,5.6,5.4,5.7,0.1
+,"Penis","28030","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Penis","28030","Male","M",1417,158933091,0.9,0.8,0.9,0.0,0.9,0.8,0.9,0.0
+,"Other Male Genital Organs","28040","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Other Male Genital Organs","28040","Male","M",392,158933091,0.2,0.2,0.3,0.0,0.2,0.2,0.3,0.0
+,"Urinary System","29010-29040","Female","F",42978,162903023,21.5,21.3,21.7,0.1,26.4,26.1,26.6,0.1
+,"Urinary System","29010-29040","Male","M",101327,158933091,60.7,60.4,61.1,0.2,63.8,63.4,64.1,0.2
+,"Urinary Bladder, invasive and in situ","29010","Female","F",18078,162903023,8.8,8.7,8.9,0.1,11.1,10.9,11.3,0.1
+,"Urinary Bladder, invasive and in situ","29010","Male","M",58397,158933091,35.9,35.6,36.2,0.2,36.7,36.4,37.0,0.2
+,"Kidney and Renal Pelvis","29020","Female","F",23665,162903023,12.1,11.9,12.2,0.1,14.5,14.3,14.7,0.1
+,"Kidney and Renal Pelvis","29020","Male","M",40741,158933091,23.4,23.2,23.7,0.1,25.6,25.4,25.9,0.1
+,"Ureter","29030","Female","F",821,162903023,0.4,0.4,0.4,0.0,0.5,0.5,0.5,0.0
+,"Ureter","29030","Male","M",1305,158933091,0.8,0.8,0.9,0.0,0.8,0.8,0.9,0.0
+,"Other Urinary Organs","29040","Female","F",414,162903023,0.2,0.2,0.2,0.0,0.3,0.2,0.3,0.0
+,"Other Urinary Organs","29040","Male","M",884,158933091,0.6,0.5,0.6,0.0,0.6,0.5,0.6,0.0
+,"Eye and Orbit","30000","Female","F",1531,162903023,0.8,0.8,0.9,0.0,0.9,0.9,1.0,0.0
+,"Eye and Orbit","30000","Male","M",1754,158933091,1.0,1.0,1.1,0.0,1.1,1.1,1.2,0.0
+,"Brain and Other Nervous System","31010-31040","Female","F",10404,162903023,5.7,5.6,5.8,0.1,6.4,6.3,6.5,0.1
+,"Brain and Other Nervous System","31010-31040","Male","M",12714,158933091,7.6,7.5,7.8,0.1,8.0,7.9,8.1,0.1
+,"Brain","31010","Female","F",9669,162903023,5.3,5.2,5.4,0.1,5.9,5.8,6.1,0.1
+,"Brain","31010","Male","M",12018,158933091,7.2,7.1,7.3,0.1,7.6,7.4,7.7,0.1
+,"Cranial Nerves Other Nervous System","31040","Female","F",735,162903023,0.4,0.4,0.5,0.0,0.5,0.4,0.5,0.0
+,"Cranial Nerves Other Nervous System","31040","Male","M",696,158933091,0.4,0.4,0.5,0.0,0.4,0.4,0.5,0.0
+,"Endocrine System","32010-32020","Female","F",38647,162903023,22.7,22.5,22.9,0.1,23.7,23.5,24.0,0.1
+,"Endocrine System","32010-32020","Male","M",14053,158933091,8.3,8.2,8.5,0.1,8.8,8.7,9.0,0.1
+,"Thyroid","32010","Female","F",37359,162903023,22.0,21.8,22.2,0.1,22.9,22.7,23.2,0.1
+,"Thyroid","32010","Male","M",12598,158933091,7.5,7.3,7.6,0.1,7.9,7.8,8.1,0.1
+,"Other Endocrine including Thymus","32020","Female","F",1288,162903023,0.7,0.7,0.8,0.0,0.8,0.7,0.8,0.0
+,"Other Endocrine including Thymus","32020","Male","M",1455,158933091,0.9,0.8,0.9,0.0,0.9,0.9,1.0,0.0
+,"Lymphomas","33011-33042","Female","F",36471,162903023,18.9,18.7,19.1,0.1,22.4,22.2,22.6,0.1
+,"Lymphomas","33011-33042","Male","M",44690,158933091,27.0,26.7,27.2,0.1,28.1,27.9,28.4,0.1
+,"Hodgkin Lymphoma","33011-33012","Female","F",3849,162903023,2.3,2.3,2.4,0.0,2.4,2.3,2.4,0.0
+,"Hodgkin Lymphoma","33011-33012","Male","M",4898,158933091,3.0,2.9,3.1,0.0,3.1,3.0,3.2,0.0
+,"Hodgkin - Nodal","33011","Female","F",3786,162903023,2.3,2.2,2.4,0.0,2.3,2.3,2.4,0.0
+,"Hodgkin - Nodal","33011","Male","M",4834,158933091,3.0,2.9,3.1,0.0,3.0,3.0,3.1,0.0
+,"Hodgkin - Extranodal","33012","Female","F",63,162903023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,"Hodgkin - Extranodal","33012","Male","M",64,158933091,0.0,0.0,0.1,0.0,0.0,0.0,0.1,0.0
+,"Non-Hodgkin Lymphoma","33041-33042","Female","F",32622,162903023,16.5,16.3,16.7,0.1,20.0,19.8,20.2,0.1
+,"Non-Hodgkin Lymphoma","33041-33042","Male","M",39792,158933091,23.9,23.7,24.2,0.1,25.0,24.8,25.3,0.1
+,"NHL - Nodal","33041","Female","F",21661,162903023,10.9,10.8,11.1,0.1,13.3,13.1,13.5,0.1
+,"NHL - Nodal","33041","Male","M",27024,158933091,16.2,16.0,16.4,0.1,17.0,16.8,17.2,0.1
+,"NHL - Extranodal","33042","Female","F",10961,162903023,5.6,5.5,5.7,0.1,6.7,6.6,6.9,0.1
+,"NHL - Extranodal","33042","Male","M",12768,158933091,7.7,7.6,7.9,0.1,8.0,7.9,8.2,0.1
+,"Myeloma","34000","Female","F",11999,162903023,5.9,5.8,6.1,0.1,7.4,7.2,7.5,0.1
+,"Myeloma","34000","Male","M",15242,158933091,9.0,8.9,9.2,0.1,9.6,9.4,9.7,0.1
+,"Leukemias","35011-35043","Female","F",22723,162903023,11.9,11.7,12.0,0.1,13.9,13.8,14.1,0.1
+,"Leukemias","35011-35043","Male","M",31760,158933091,19.4,19.2,19.6,0.1,20.0,19.8,20.2,0.1
+,"Acute Lymphocytic Leukemia","35011","Female","F",2348,162903023,1.5,1.4,1.6,0.0,1.4,1.4,1.5,0.0
+,"Acute Lymphocytic Leukemia","35011","Male","M",3048,158933091,2.0,1.9,2.0,0.0,1.9,1.9,2.0,0.0
+,"Chronic Lymphocytic Leukemia","35012","Female","F",7960,162903023,3.9,3.8,3.9,0.0,4.9,4.8,5.0,0.1
+,"Chronic Lymphocytic Leukemia","35012","Male","M",12390,158933091,7.3,7.2,7.5,0.1,7.8,7.7,7.9,0.1
+,"Acute Myeloid Leukemia","35021","Female","F",6744,162903023,3.5,3.5,3.6,0.0,4.1,4.0,4.2,0.1
+,"Acute Myeloid Leukemia","35021","Male","M",8600,158933091,5.3,5.2,5.4,0.1,5.4,5.3,5.5,0.1
+,"Chronic Myeloid Leukemia","35022","Female","F",3066,162903023,1.6,1.6,1.7,0.0,1.9,1.8,1.9,0.0
+,"Chronic Myeloid Leukemia","35022","Male","M",4133,158933091,2.6,2.5,2.6,0.0,2.6,2.5,2.7,0.0
+,"Other Leukemias","35041-35043","Female","F",2605,162903023,1.3,1.3,1.4,0.0,1.6,1.5,1.7,0.0
+,"Other Leukemias","35041-35043","Male","M",3589,158933091,2.2,2.2,2.3,0.0,2.3,2.2,2.3,0.0
+,"Other Lymphocytic Leukemia","35013","Female","F",438,162903023,0.2,0.2,0.2,0.0,0.3,0.2,0.3,0.0
+,"Other Lymphocytic Leukemia","35013","Male","M",1128,158933091,0.7,0.6,0.7,0.0,0.7,0.7,0.8,0.0
+,"Acute Monocytic Leukemia","35031","Female","F",349,162903023,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Acute Monocytic Leukemia","35031","Male","M",349,158933091,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Acute Leukemia","35041","Female","F",411,162903023,0.2,0.2,0.2,0.0,0.3,0.2,0.3,0.0
+,"Other Acute Leukemia","35041","Male","M",471,158933091,0.3,0.3,0.3,0.0,0.3,0.3,0.3,0.0
+,"Aleukemic, Subleukemic and NOS","35043","Female","F",1127,162903023,0.6,0.5,0.6,0.0,0.7,0.7,0.7,0.0
+,"Aleukemic, Subleukemic and NOS","35043","Male","M",1300,158933091,0.8,0.8,0.9,0.0,0.8,0.8,0.9,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","Female","F",280,162903023,0.1,0.1,0.2,0.0,0.2,0.2,0.2,0.0
+,"Other Myeloid/Monocytic Leukemia","35023","Male","M",341,158933091,0.2,0.2,0.2,0.0,0.2,0.2,0.2,0.0
+,"Mesothelioma","36010","Female","F",839,162903023,0.4,0.4,0.5,0.0,0.5,0.5,0.6,0.0
+,"Mesothelioma","36010","Male","M",2469,158933091,1.6,1.5,1.7,0.0,1.6,1.5,1.6,0.0
+,"Kaposi Sarcoma","36020","Female","F",135,162903023,0.1,0.1,0.1,0.0,0.1,0.1,0.1,0.0
+,"Kaposi Sarcoma","36020","Male","M",1079,158933091,0.7,0.6,0.7,0.0,0.7,0.6,0.7,0.0
+,"Miscellaneous","37000","Female","F",31077,162903023,15.5,15.3,15.6,0.1,19.1,18.9,19.3,0.1
+,"Miscellaneous","37000","Male","M",34627,158933091,21.5,21.3,21.8,0.1,21.8,21.6,22.0,0.1
+,"Male and Female Breast, In Situ","Breast-InSitu","Female","F",57593,162903023,30.2,29.9,30.4,0.1,35.4,35.1,35.6,0.1
+,"Male and Female Breast, In Situ","Breast-InSitu","Male","M",215,158933091,0.1,0.1,0.1,0.0,0.1,0.1,0.2,0.0
+,"Female Breast, In Situ","Breast-InSitu-Female","Female","F",57593,162903023,30.2,29.9,30.4,0.1,35.4,35.1,35.6,0.1
+,"Female Breast, In Situ","Breast-InSitu-Female","Male","M",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast, In Situ","Breast-InSitu-Male","Female","F",Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Male Breast, In Situ","Breast-InSitu-Male","Male","M",215,158933091,0.1,0.1,0.1,0.0,0.1,0.1,0.2,0.0
+,"Invalid Value(s)","99999","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Invalid Value(s)","99999","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence"
+"Query Parameters:"
+"Year: 2015"
+"Group By: Cancer Sites; Sex"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2022.html for more information."
+"---"
+"Query Date: Nov 18, 2026 12:34:55 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2022, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2024 submission; 2025"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2022.html on Nov 18, 2026 12:34:55 AM"
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2022.html#Genital Cancers List."
+"2. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"3. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"4. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
